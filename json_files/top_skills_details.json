@@ -1,42 +1,42 @@
-{
-    "1": {
+[
+    {
         "skill": "Geographic Infromation System (GIS)",
         "percentage": 90
     },
-    "2": {
+    {
         "skill": "Data Visualization",
         "percentage": 85
     },
-    "3": {
+    {
         "skill": "Spatial Data Science",
         "percentage": 85
     },
-    "4": {
+    {
         "skill": "JavaScript",
         "percentage": 90
     },
-    "5": {
+    {
         "skill": "React",
         "percentage": 80
     },
-    "6": {
+    {
         "skill": "Python",
         "percentage": 75
     },
-    "7": {
+    {
         "skill": "Database Management",
         "percentage": 90
     },
-    "8": {
+    {
         "skill": "ETL",
         "percentage": 80
     },
-    "9": {
+    {
         "skill": "Problem Solving",
         "percentage": 90
     },
-    "10": {
+    {
         "skill": "Team Work",
         "percentage": 95
     }
-}
+]
