@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/easa_logo.png",
+        "name": "UAS Remote Pilot A1/A3 Competency Certification",
+        "issued_by": "EASA - European Union Aviation Safety Agency",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/easa_a1a3.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "Yes",
+        "verify_url": "https://learningzone.eurocontrol.int/ilp/customs/Reports/DACUASComp/Certificate/Validation/14892890/?key=bd197379ead7b6a9ce1f1110c279be6ef32916708813a6aa5ca86cc466f68947",
+        "date_status": "Valid Until:",
+        "date": "October 06, 2029"
+    },
+    {
+        "id": 2,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/esri_logo.png",
+        "name": "Make an Impact with Modern Geo Apps - MOOC",
+        "issued_by": "Esri",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/esri_mordern_geo_apps.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "Yes",
+        "verify_url": "https://www.esri.com/training/TrainingRecord/Certificate/pliyanage_uji/663f6351dfcdba0f07ac28b9/-120",
+        "date_status": "Issued on:",
+        "date": "October 19, 2024"
+    },
+    {
+        "id": 3,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/ibm_logo.png",
+        "name": "IBM Data Science Professional Certificate",
+        "issued_by": "IBM",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/ibm_datascience.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "Yes",
+        "verify_url": "https://www.coursera.org/account/accomplishments/professional-cert/DH2BOIB1K6XH",
+        "date_status": "Issued on:",
+        "date": "June 24, 2024"
+    },
+    {
+        "id": 4,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/itc_logo.png",
+        "name": "GEO WEB APP BUILDING WITH OS TOOLS",
+        "issued_by": "ITC - University of Twente",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/itc_geo_webapp.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "No",
+        "verify_url": "",
+        "date_status": "Issued on:",
+        "date": "November 24, 2024"
+    },
+    {
+        "id": 5,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/meta_logo.png",
+        "name": "Meta Front-End Developer Professional Certificate",
+        "issued_by": "Meta",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/meta_frontend.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "Yes",
+        "verify_url": "https://www.coursera.org/account/accomplishments/professional-cert/PBMDOFH4RSL9",
+        "date_status": "Issued on:",
+        "date": "September 01, 2024"
+    },
+    {
+        "id": 6,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/unmappers_logo.png",
+        "name": "OpenStreetMap and Humanitarian Mapping",
+        "issued_by": "UN Mappers",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/unmappers.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "No",
+        "verify_url": "",
+        "date_status": "Issued on:",
+        "date": "November 01, 2024"
+    },
+    {
+        "id": 7,
+        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/uom_logo.png",
+        "name": "Front-End Web Development",
+        "issued_by": "University of Moratuwa",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/uom_fronend.png",
+        "credential_id_status": "Yes",
+        "credential_id": "WkJAmvlrPu",
+        "verify_url_status": "Yes",
+        "verify_url": "https://open.uom.lk/lms/mod/customcert/verify_certificate.php",
+        "date_status": "Issued on:",
+        "date": "May 01, 2023"
+    }
+]
