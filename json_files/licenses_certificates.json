@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/easa_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/easa_logo.png",
         "name": "UAS Remote Pilot A1/A3 Competency Certification",
         "issued_by": "EASA - European Union Aviation Safety Agency",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/easa_a1a3.png",
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/esri_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/esri_logo.png",
         "name": "Make an Impact with Modern Geo Apps - MOOC",
         "issued_by": "Esri",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/esri_mordern_geo_apps.png",
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/ibm_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/ibm_logo.png",
         "name": "IBM Data Science Professional Certificate",
         "issued_by": "IBM",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/ibm_datascience.png",
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/itc_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/itc_logo.png",
         "name": "GEO WEB APP BUILDING WITH OS TOOLS",
         "issued_by": "ITC - University of Twente",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/itc_geo_webapp.png",
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/meta_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/meta_logo.png",
         "name": "Meta Front-End Developer Professional Certificate",
         "issued_by": "Meta",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/meta_frontend.png",
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/unmappers_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/unmappers_logo.png",
         "name": "OpenStreetMap and Humanitarian Mapping",
         "issued_by": "UN Mappers",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/unmappers.png",
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "logo": "https://raw.githubusercontent.com/UpekshaIndeewari/Skills-Projects/main/images/certificates_logos/uom_logo.png",
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/uom_logo.png",
         "name": "Front-End Web Development",
         "issued_by": "University of Moratuwa",
         "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/uom_fronend.png",
