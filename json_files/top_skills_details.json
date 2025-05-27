@@ -1,42 +1,42 @@
 [
     {
-        "skill": "Geographic Infromation System (GIS)",
-        "percentage": 90
-    },
-    {
-        "skill": "Data Visualization",
-        "percentage": 85
-    },
-    {
-        "skill": "Spatial Data Science",
-        "percentage": 85
-    },
-    {
-        "skill": "JavaScript",
+        "skill": "JavaScript ES5/ ES6",
         "percentage": 90
     },
     {
         "skill": "React",
-        "percentage": 80
+        "percentage": 85
     },
     {
         "skill": "Python",
-        "percentage": 75
-    },
-    {
-        "skill": "Database Management",
         "percentage": 90
     },
     {
-        "skill": "ETL",
+        "skill": "ArcGIS Suite (ArcGIS Pro, ArcGIS Online)",
+        "percentage": 85
+    },
+    {
+        "skill": "PostgreSQL/PostGIS",
+        "percentage": 90
+    },
+    {
+        "skill": "MySQL",
+        "percentage": 90
+    },
+    {
+        "skill": "R",
         "percentage": 80
     },
     {
-        "skill": "Problem Solving",
+        "skill": "ETL Tools (FME, ArcGIS ModelBuilder)",
+        "percentage": 80
+    },
+    {
+        "skill": "git, GitHub",
         "percentage": 90
     },
     {
-        "skill": "Team Work",
-        "percentage": 95
+        "skill": "Adobe Photoshop",
+        "percentage": 85
     }
 ]
