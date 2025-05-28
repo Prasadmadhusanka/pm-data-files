@@ -4,853 +4,983 @@
         "labels": "Skills",
         "parents": "",
         "level": 0,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "ProgrammingLanguages",
         "labels": "Programming<br>Languages",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "CAD",
         "labels": "CAD",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "ContentCreation",
         "labels": "Content Creation",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "IDEs",
         "labels": "IDEs",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "NoteBooks",
         "labels": "NoteBooks",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "VersionControl",
         "labels": "Version Control",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "BItools",
         "labels": "BI tools",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "Mathematics",
         "labels": "Mathematics",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "SoftSkills",
         "labels": "Soft Skills",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "DatabaseManagement",
         "labels": "Database<br>Management",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "DataScience",
         "labels": "Data Science",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "FrontEndWebDevelopment",
         "labels": "Front End<br>Web Development",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "GIS",
         "labels": "GIS",
         "parents": "Skills",
         "level": 1,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "Tableau",
         "labels": "Tableau",
         "parents": "BItools",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "MicrosoftExclePivotTables",
         "labels": "Microsoft Excel<br>(Pivot Tables)",
         "parents": "BItools",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AutoCAD",
         "labels": "AutoCAD",
         "parents": "CAD",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AdobePhotoshop",
         "labels": "Adobe Photoshop",
         "parents": "ContentCreation",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AdobeIllustrator",
         "labels": "Adobe Illustrator",
         "parents": "ContentCreation",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AdobeAfterEffects",
         "labels": "Adobe<br>After Effects",
         "parents": "ContentCreation",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AdobePremierePro",
         "labels": "Adobe<br>Premiere Pro",
         "parents": "ContentCreation",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "DataManipulation",
         "labels": "Data<br>Manipulation",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "DataVisualization",
         "labels": "Data<br>Visualization",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "ETL",
         "labels": "ETL",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "WebScraping",
         "labels": "Web Scraping",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "MachineLearning",
         "labels": "Machine Learning",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "SpatialDataAnalysis",
         "labels": "Spatial<br>Data Analysis",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "StatisticalAnalysis",
         "labels": "Statistical<br>Analysis",
         "parents": "DataScience",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "RelationalDatabases",
         "labels": "Relational<br>Databases",
         "parents": "DatabaseManagement",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "SpatialDatabases",
         "labels": "Spatial<br>Databases",
         "parents": "DatabaseManagement",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "Languages",
         "labels": "Languages",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "FrameworkandLibraries",
         "labels": "Framework<br>&<br>Libraries",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
+    },
+    {
+        "ids": "BuildTools",
+        "labels": "Build Tools",
+        "parents": "FrontEndWebDevelopment",
+        "level": 2,
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "TestingToolsandLibraries",
         "labels": "Testing Tools<br>&<br>Libraries",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "Linters",
         "labels": "Linters",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "UIUX",
         "labels": "UI/UX",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "PackageManagers",
         "labels": "Package<br>Managers",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "Webhosting",
         "labels": "Web hosting",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "APIsandIntegration",
         "labels": "APIs and<br>Integration",
         "parents": "FrontEndWebDevelopment",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "OGCServices",
         "labels": "OGC Services",
         "parents": "GIS",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "ArcGISSuite",
         "labels": "ArcGIS Suite",
         "parents": "GIS",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "FieldWorks",
         "labels": "Field Works",
         "parents": "GIS",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "OtherTools",
         "labels": "Other Tools",
         "parents": "GIS",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": "Parent"
     },
     {
         "ids": "VisualStudioCode",
         "labels": "VS Code",
         "parents": "IDEs",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "RStudio",
         "labels": "R Studio",
         "parents": "IDEs",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Statistics",
         "labels": "Statistics",
         "parents": "Mathematics",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Probability",
         "labels": "Probability",
         "parents": "Mathematics",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Algebra",
         "labels": "Algebra",
         "parents": "Mathematics",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Calculus",
         "labels": "Calculus",
         "parents": "Mathematics",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Geometry",
         "labels": "Geometry",
         "parents": "Mathematics",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "JupyterNotebook",
         "labels": "Jupyter<br>Notebook",
         "parents": "NoteBooks",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GoogleColab",
         "labels": "Google Colab",
         "parents": "NoteBooks",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "RMarkdown",
         "labels": "R Markdown",
         "parents": "NoteBooks",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "JavaScript",
         "labels": "JavaScript (ES5/ ES6+)",
         "parents": "ProgrammingLanguages",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Python",
         "labels": "Python",
         "parents": "ProgrammingLanguages",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "R",
         "labels": "R",
         "parents": "ProgrammingLanguages",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Communication",
         "labels": "Communication",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ProblemSolving",
         "labels": "Problem Solving",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "TeamColabaration",
         "labels": "Team Colabaration",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Creativity",
         "labels": "Creativity",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "StoryTelling",
         "labels": "Story Telling",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Adaptability",
         "labels": "Adaptability",
         "parents": "SoftSkills",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Git",
         "labels": "Git",
         "parents": "VersionControl",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GitHub",
         "labels": "GitHub",
         "parents": "VersionControl",
         "level": 2,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "RESTAPIs",
         "labels": "REST API",
         "parents": "APIsandIntegration",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "FetchAPI",
         "labels": "Fetch API",
         "parents": "APIsandIntegration",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GeolocationAPI",
         "labels": "Geolocation API ",
         "parents": "APIsandIntegration",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GoogleMapsAPI",
         "labels": "Google Maps API",
         "parents": "APIsandIntegration",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcMap",
         "labels": "ArcMap",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISPro",
         "labels": "ArcGIS Pro",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISOnline",
         "labels": "ArcGIS Online",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "ArcGISSurvey122",
+        "ids": "ArcGISSurvey123",
         "labels": "ArcGIS Survey123",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISFieldMaps",
         "labels": "ArcGIS Field Maps",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISServer",
         "labels": "ArcGIS Server",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISStoryMap",
         "labels": "ArcGIS StoryMap",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISDashboard",
         "labels": "ArcGIS Dashboard",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISExperienceBuilder",
         "labels": "ArcGIS<br>Experience Builder",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISWebAppBuilder",
         "labels": "ArcGIS<br>Web AppBuilder",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ArcGISHub",
         "labels": "ArcGIS Hub",
         "parents": "ArcGISSuite",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Vite",
         "labels": "Vite",
         "parents": "BuildTools",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Pandas",
         "labels": "Pandas",
         "parents": "DataManipulation",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "NumPy",
         "labels": "NumPy",
         "parents": "DataManipulation",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Openpyxl",
         "labels": "Openpyxl",
         "parents": "DataManipulation",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "dplyr",
         "labels": "dplyr",
         "parents": "DataManipulation",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Matplotlib",
         "labels": "Matplotlib",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Seaborn",
         "labels": "Seaborn",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Plotly",
         "labels": "Plotly",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "D3.js",
+        "ids": "D3js",
         "labels": "D3.js",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "Chart.js",
+        "ids": "Chartjs",
         "labels": "Chart.js",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "Leaflet.js",
+        "ids": "Leafletjs",
         "labels": "Leaflet.js",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "ggplot1",
+        "ids": "ggplot2",
         "labels": "ggplot2",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "GeoPandas-DataVisualization",
+        "ids": "GeoPandasDataVisualization",
         "labels": "GeoPandas",
         "parents": "DataVisualization",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "FME",
         "labels": "FME",
         "parents": "ETL",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GPSSurvey",
         "labels": "GPS Survey",
         "parents": "FieldWorks",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "UAVDronePiloting",
         "labels": "UAV/<br>Drone Piloting",
         "parents": "FieldWorks",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "React",
         "labels": "React",
         "parents": "FrameworkandLibraries",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ReactBootstrap",
         "labels": "React Bootstrap",
         "parents": "FrameworkandLibraries",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "ReactSlick",
         "labels": "React Slick",
         "parents": "FrameworkandLibraries",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "AOS(Animateonscroll)",
+        "ids": "AOSAnimateonscroll",
         "labels": "AOS<br>(Animate on scroll)",
         "parents": "FrameworkandLibraries",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "HTML5",
         "labels": "HTML5",
         "parents": "Languages",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "CSS3",
         "labels": "CSS3",
         "parents": "Languages",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "JavaScript(ES5)",
+        "ids": "JavaScriptES5",
         "labels": "JavaScript (ES5)",
         "parents": "Languages",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "JavaScript(ES6+)",
+        "ids": "JavaScriptES6",
         "labels": "JavaScript (ES6+)",
         "parents": "Languages",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "Prettier",
         "labels": "Prettier",
         "parents": "Linters",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "Scikit-learn",
+        "ids": "Scikitlearn",
         "labels": "Scikit-learn",
         "parents": "MachineLearning",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "WMS",
         "labels": "WMS",
         "parents": "OGCServices",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "WFS",
         "labels": "WFS",
         "parents": "OGCServices",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "WMTS",
         "labels": "WMTS",
         "parents": "OGCServices",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GeoServer",
         "labels": "Geo Server",
         "parents": "OGCServices",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "OGCRESTAPI",
         "labels": "OGC REST API",
         "parents": "OGCServices",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "QGIS",
         "labels": "QGIS",
         "parents": "OtherTools",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "npm",
         "labels": "npm",
         "parents": "PackageManagers",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "MySQL",
         "labels": "MySQL",
         "parents": "RelationalDatabases",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "PostgreSQL",
         "labels": "PostgreSQL",
         "parents": "RelationalDatabases",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
-        "ids": "GeoPandas-SpatialDataAnalysis",
+        "ids": "GeoPandasSpatialDataAnalysis",
         "labels": "GeoPandas",
         "parents": "SpatialDataAnalysis",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "sf",
         "labels": "sf",
         "parents": "SpatialDataAnalysis",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "sp",
         "labels": "sp",
         "parents": "SpatialDataAnalysis",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "PostgreSQLPostGIS",
         "labels": "PostgreSQL<br>+<br>PostGIS",
         "parents": "SpatialDatabases",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "bootES",
         "labels": "bootES",
         "parents": "StatisticalAnalysis",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "GitHubPages",
         "labels": "GitHub Pages",
         "parents": "Webhosting",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AmazonS3",
         "labels": "Amazon S3",
         "parents": "Webhosting",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "AmazonRoute53",
         "labels": "Amazon<br>Route 53",
         "parents": "Webhosting",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     },
     {
         "ids": "BeautifulSoup",
         "labels": "BeautifulSoup",
         "parents": "WebScraping",
         "level": 3,
-        "Visibility": true
+        "visibility": true,
+        "parentStatus": ""
     }
 ]
