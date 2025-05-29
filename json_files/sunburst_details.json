@@ -96,12 +96,12 @@
     },
     {
         "ids": "AdobeAfterEffects",
-        "labels": "Adobe<br>After Effects",
+        "labels": "Adobe After Effects",
         "parents": "ContentCreation"
     },
     {
         "ids": "AdobePremierePro",
-        "labels": "Adobe<br>Premiere Pro",
+        "labels": "Adobe Premiere Pro",
         "parents": "ContentCreation"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "ids": "StatisticalAnalysis",
-        "labels": "Statistical<br>Analysis",
+        "labels": "Statistical Analysis",
         "parents": "DataScience"
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "ids": "SpatialDatabases",
-        "labels": "Spatial<br>Databases",
+        "labels": "Spatial Databases",
         "parents": "DatabaseManagement"
     },
     {
@@ -155,8 +155,8 @@
         "parents": "FrontEndWebDevelopment"
     },
     {
-        "ids": "FrameworkandLibraries",
-        "labels": "Framework<br>&<br>Libraries",
+        "ids": "FrameworkLibraries",
+        "labels": "Framework/<br>Libraries",
         "parents": "FrontEndWebDevelopment"
     },
     {
@@ -165,8 +165,8 @@
         "parents": "FrontEndWebDevelopment"
     },
     {
-        "ids": "TestingToolsandLibraries",
-        "labels": "Testing Tools<br>&<br>Libraries",
+        "ids": "TestingLibraries",
+        "labels": "Testing Libraries",
         "parents": "FrontEndWebDevelopment"
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "ids": "PackageManagers",
-        "labels": "Package<br>Managers",
+        "labels": "Package Managers",
         "parents": "FrontEndWebDevelopment"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "ids": "JupyterNotebook",
-        "labels": "Jupyter<br>Notebook",
+        "labels": "Jupyter Notebook",
         "parents": "NoteBooks"
     },
     {
@@ -266,7 +266,7 @@
     },
     {
         "ids": "JavaScript",
-        "labels": "JavaScript (ES5/ ES6+)",
+        "labels": "JavaScript",
         "parents": "ProgrammingLanguages"
     },
     {
@@ -402,7 +402,7 @@
     {
         "ids": "Jest",
         "labels": "Jest",
-        "parents": "TestingToolsandLibraries"
+        "parents": "TestingLibraries"
     },
     {
         "ids": "Figma",
@@ -487,22 +487,22 @@
     {
         "ids": "React",
         "labels": "React",
-        "parents": "FrameworkandLibraries"
+        "parents": "FrameworkLibraries"
     },
     {
         "ids": "ReactBootstrap",
         "labels": "React Bootstrap",
-        "parents": "FrameworkandLibraries"
+        "parents": "FrameworkLibraries"
     },
     {
         "ids": "ReactSlick",
         "labels": "React Slick",
-        "parents": "FrameworkandLibraries"
+        "parents": "FrameworkLibraries"
     },
     {
         "ids": "AOSAnimateonscroll",
         "labels": "AOS<br>(Animate on scroll)",
-        "parents": "FrameworkandLibraries"
+        "parents": "FrameworkLibraries"
     },
     {
         "ids": "HTML5",
@@ -596,7 +596,7 @@
     },
     {
         "ids": "PostgreSQLPostGIS",
-        "labels": "PostgreSQL<br>+<br>PostGIS",
+        "labels": "PostgreSQL +<br>PostGIS",
         "parents": "SpatialDatabases"
     },
     {
