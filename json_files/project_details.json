@@ -4,7 +4,7 @@
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/2.jpg",
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/3.jpg",
-        "title": "EO4GEO BOK Annotation for GI Resources - Master Thesis",
+        "title": "EO4GEO BOK Annotation for GI Resources - Master Thesis1",
         "technologies": [
             "PYTHON",
             "FME",
@@ -18,14 +18,17 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science",
+            "DBMS"
+        ]
     },
     {
         "id": 2,
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/2.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/3.jpg",
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/4.jpg",
-        "title": "Spatial Database Design and Query Optimization - Highway Blasting Impact Assessment",
+        "title": "Spatial Database Design and Query Optimization - Highway Blasting Impact Assessment3",
         "technologies": [
             "JAVASCRIPT",
             "CSS3",
@@ -38,14 +41,17 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web",
+            "Drone Survey"
+        ]
     },
     {
         "id": 3,
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/3.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/4.jpg",
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/5.jpg",
-        "title": "EO4GEO BOK Annotation for GI Resources - Master Thesis",
+        "title": "EO4GEO BOK Annotation for GI Resources - Master Thesis2",
         "technologies": [
             "PYTHON",
             "FME",
@@ -59,14 +65,16 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 4,
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/4.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/5.jpg",
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/6.jpg",
-        "title": "Spatial Database Design and Query Optimization - Highway Blasting Impact Assessment",
+        "title": "Spatial Database Design and Query Optimization - Highway Blasting Impact Assessment4",
         "technologies": [
             "JAVASCRIPT",
             "CSS3",
@@ -79,7 +87,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 5,
@@ -100,7 +110,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 6,
@@ -120,7 +132,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 7,
@@ -141,7 +155,9 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 8,
@@ -161,7 +177,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 9,
@@ -182,7 +200,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 10,
@@ -202,7 +222,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 11,
@@ -223,7 +245,9 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 12,
@@ -243,7 +267,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 13,
@@ -264,7 +290,9 @@
         "associatedwith": "",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 14,
@@ -284,7 +312,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 15,
@@ -305,7 +335,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 16,
@@ -325,7 +357,9 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 17,
@@ -346,7 +380,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 18,
@@ -366,7 +402,9 @@
         "associatedwith": "",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 19,
@@ -387,7 +425,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 20,
@@ -407,7 +447,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 21,
@@ -428,7 +470,9 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 22,
@@ -448,7 +492,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 23,
@@ -469,7 +515,9 @@
         "associatedwith": "",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 24,
@@ -489,7 +537,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 25,
@@ -510,7 +560,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 26,
@@ -530,7 +582,9 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 27,
@@ -551,7 +605,9 @@
         "associatedwith": "University of M\u00fcnster",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 28,
@@ -571,7 +627,9 @@
         "associatedwith": "",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     },
     {
         "id": 29,
@@ -592,7 +650,9 @@
         "associatedwith": "",
         "link": "https://storymaps.arcgis.com/stories/f83af649b1234a129d70c8a41275c583",
         "updatedate": "January 01, 2025",
-        "category": "Data Science"
+        "category": [
+            "Data Science"
+        ]
     },
     {
         "id": 30,
@@ -612,7 +672,9 @@
         "associatedwith": "Universitat Jaume I",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "January 06, 2023",
-        "category": "Front - End Web"
+        "category": [
+            "Front - End Web"
+        ]
     },
     {
         "id": 31,
@@ -633,7 +695,9 @@
         "associatedwith": "Geological Survey & Mines Bureau",
         "link": "https://prasadmadhusanka.github.io/BlackJack-2Player/",
         "updatedate": "November 09, 2024",
-        "category": "DBMS"
+        "category": [
+            "DBMS"
+        ]
     },
     {
         "id": 32,
@@ -653,6 +717,8 @@
         "associatedwith": "GSMB Technical Services (PVT) LTD.",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization",
         "updatedate": "December 09, 2020",
-        "category": "Drone Survey"
+        "category": [
+            "Drone Survey"
+        ]
     }
 ]
