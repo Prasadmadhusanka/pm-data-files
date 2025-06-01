@@ -475,6 +475,11 @@
         "parents": "ETL"
     },
     {
+        "ids": "ArcGISModelBuilder",
+        "labels": "ArcGIS ModelBuilder",
+        "parents": "ETL"
+    },
+    {
         "ids": "GPSSurvey",
         "labels": "GPS Survey",
         "parents": "FieldWorks"
