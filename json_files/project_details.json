@@ -21,10 +21,10 @@
             "git",
             "Amazon S3"
         ],
-        "description": "A fully responsive and modern web portfolio designed and developed to showcase my projects, technical skills, my blogs and my background. Built with a focus on performance, accessibility, clean UI/UX design, and seamless navigation. It includes interactive elements, smooth animations and optimized performance for both desktop and mobile devices.",
+        "description": "This modern, fully responsive web portfolio showcases my projects, technical skills, blog posts, and professional background. It features smooth animations, interactive elements, and is optimized for high performance on desktop and mobile devices. With a focus on clean UI/UX, accessibility, and intuitive navigation, it offers a seamless experience. All dynamic content is loaded from external JSON files.",
         "associatedwith": "Independent / Personal Project",
         "link": "https://prasadmadhusanka.github.io/dist/",
-        "updatedate": "May 31, 2025",
+        "updatedate": "May 2025",
         "category": [
             "Web Development",
             "API Integration"
@@ -47,10 +47,10 @@
             "Data Structures",
             "GitHub Pages"
         ],
-        "description": "BlackJack-2Player is a simple browser-based game where the player competes against the computer in a classic game of Blackjack. Built with HTML5, CSS3, JavaScript (ES5), and styled using Bootstrap 3.3, the game features responsive design and smooth CSS animations. It is developed in Visual Studio Code and utilizes Git and GitHub for version control, with deployment on GitHub Pages.",
+        "description": "BlackJack-2Player is a browser-based game where the player competes against the computer in classic Blackjack. Developed with HTML5, JavaScript (ES5), CSS3, and Bootstrap 3.3, it features responsive design and smooth animations. Core logic uses arrays, objects, and classes. Built in Visual Studio Code, version-controlled with Git/GitHub, and deployed via GitHub Pages.",
         "associatedwith": "Universitat Jaume I",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
-        "updatedate": "December 01, 2022",
+        "updatedate": "December 2022",
         "category": [
             "Web Development"
         ]
@@ -69,14 +69,16 @@
             "FME",
             "Pandas",
             "Geopandas",
-            "GeoDataframe Matplotlib",
+            "GeoDataframe",
+            "Matplotlib",
             "Seaborn",
-            "Juptyer"
+            "Juptyer Notebooks",
+            "Adobe AfterEffects"
         ],
-        "description": "Built an end-to-end ETL pipeline and static visualizations to analyze natural gas consumption and trends across EEA countries using FME, Python, and Jupyter. Integrated Pandas, GeoPandas, Matplotlib, and Seaborn for data processing and insightful geographic and temporal visual analysis.",
+        "description": "Built an end-to-end ETL pipeline and static visualizations to analyze natural gas consumption, production, exports, imports, reserves, and trends across EEA countries using FME, Python, and Jupyter. Leveraged Pandas, GeoPandas, Matplotlib, and Seaborn for efficient data processing and insightful geographic and temporal visualizations.",
         "associatedwith": "Universitat Jaume I",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization?tab=readme-ov-file",
-        "updatedate": "December 01, 2022",
+        "updatedate": "December 2022",
         "category": [
             "Data Science"
         ]
@@ -85,10 +87,10 @@
         "id": 4,
         "image_id": "img04",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_1.jpg",
-        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_2.jpg",
-        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_3.jpg",
-        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_4.jpg",
-        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_5.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_5.jpg",
         "title": "Spatial Database Design and Query Optimization using Using PostgreSQL, PostGIS and ArcGIS Pro",
         "technologies": [
             "ERD",
@@ -102,10 +104,10 @@
             "GitHub",
             "ArcGIS Story Maps"
         ],
-        "description": "Utilized PostgreSQL, PostGIS, and ArcGIS Pro to design a spatial database assessing the impact of highway blasting on nearby structures. Integrated spatial/non-spatial data, optimized queries, and visualized results to support safety planning, regulatory compliance, and informed decision-making.",
+        "description": "Modeled an ERD during the conceptual design stage with spatial attributes (POINT, LINESTRING, POLYGON). Used PostgreSQL, PostGIS, and ArcGIS Pro to build a spatial database assessing highway blasting impacts on nearby structures. Integrated spatial and non-spatial data, optimized queries, and visualized results to support safety planning, regulatory compliance, and data-driven decision-making.",
         "associatedwith": "Universitat Jaume I",
         "link": "https://storymaps.arcgis.com/stories/25ae7f0de71c492f9a718b5a5c65ee65",
-        "updatedate": "November 01, 2022",
+        "updatedate": "November 2022",
         "category": [
             "Data Science"
         ]
