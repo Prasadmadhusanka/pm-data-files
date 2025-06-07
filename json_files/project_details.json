@@ -91,7 +91,7 @@
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_3.jpg",
         "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_4.jpg",
         "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_5.jpg",
-        "title": "Spatial Database Design and Query Optimization using Using PostgreSQL, PostGIS and ArcGIS Pro",
+        "title": "Spatial Database Design and Query Optimization using PostgreSQL, PostGIS and ArcGIS Pro",
         "technologies": [
             "ERD",
             "PostgreSQL",
