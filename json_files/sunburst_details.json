@@ -125,6 +125,11 @@
         "parents": "DataScience"
     },
     {
+        "ids": "APIDevelopment",
+        "labels": "API Development",
+        "parents": "DataScience"
+    },
+    {
         "ids": "MachineLearning",
         "labels": "Machine Learning",
         "parents": "DataScience"
@@ -190,8 +195,8 @@
         "parents": "FrontEndWebDevelopment"
     },
     {
-        "ids": "APIsandIntegration",
-        "labels": "APIs and<br>Integration",
+        "ids": "APIIntegration",
+        "labels": "API<br>Integration",
         "parents": "FrontEndWebDevelopment"
     },
     {
@@ -322,22 +327,22 @@
     {
         "ids": "RESTAPIs",
         "labels": "REST API",
-        "parents": "APIsandIntegration"
+        "parents": "APIIntegration"
     },
     {
         "ids": "FetchAPI",
         "labels": "Fetch API",
-        "parents": "APIsandIntegration"
+        "parents": "APIIntegration"
     },
     {
         "ids": "GeolocationAPI",
         "labels": "Geolocation API ",
-        "parents": "APIsandIntegration"
+        "parents": "APIIntegration"
     },
     {
         "ids": "GoogleMapsAPI",
         "labels": "Google Maps API",
-        "parents": "APIsandIntegration"
+        "parents": "APIIntegration"
     },
     {
         "ids": "ArcMap",
@@ -625,8 +630,18 @@
         "parents": "Webhosting"
     },
     {
+        "ids": "AmazonCloudFront",
+        "labels": "Amazon<br>CloudFront",
+        "parents": "Webhosting"
+    },
+    {
         "ids": "BeautifulSoup",
         "labels": "BeautifulSoup",
         "parents": "WebScraping"
+    },
+    {
+        "ids": "FastAPI",
+        "labels": "FastAPI",
+        "parents": "APIDevelopment"
     }
 ]
