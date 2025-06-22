@@ -1,0 +1,78 @@
+[
+    {
+        "company_name": "Geomundus 2023",
+        "designation": "Front-end Web Developer",
+        "period1": 2023,
+        "country_code": "DE",
+        "short_description": "Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "period2": "Apr 2023 - Oct 2023",
+        "duration": "7 mos",
+        "company_link": "https://geomundus.org/2023/",
+        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "technology_used": [
+            "include short description",
+            "include short description",
+            "include short description",
+            "include short description",
+            ""
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/geomundus_logo.jpg"
+    },
+    {
+        "company_name": "Geological Survey & Mines Bureau, Colombo, Sri Lanka.",
+        "designation": "GIS Analyst / Mining Engineer",
+        "period1": "2018-2022",
+        "country_code": "LK",
+        "short_description": "Conducted geospatial analysis, ETL workflows, and geodatabase management using SQL, GIS, and remote sensing tools. Designed interactive maps, performed risk assessments, and automated data processes to support mining and environmental projects while ensuring regulatory compliance.",
+        "period2": "Jun 2018 - Sep 2022",
+        "duration": "4 yrs 3 mos",
+        "company_link": "https://www.gsmb.gov.lk/index.php?lang=en",
+        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "technology_used": [
+            "include short description",
+            "include short description",
+            "include short description",
+            "include short description",
+            ""
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmb_logo.jpg"
+    },
+    {
+        "company_name": "GSMB Technical Services (PVT) LTD., Hambantota, Sri Lanka.",
+        "designation": "GIS Analyst",
+        "period1": "2017-2018",
+        "country_code": "LK",
+        "short_description": "Led GIS and spatial analysis for Southern Expressway Extension project, using drone surveys, GIS tools, and data integration for decision-making and project management.",
+        "period2": "Oct 2017 - Jun 2018",
+        "duration": "9 mos",
+        "company_link": "https://www.gsmbts.gov.lk/",
+        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "technology_used": [
+            "include short description",
+            "include short description",
+            "include short description",
+            "include short description",
+            ""
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmbts_logo.jpg"
+    },
+    {
+        "company_name": "ELS Group of Companies, Colombo, Sri Lanka.",
+        "designation": "Geotechnical Engineer",
+        "period1": "2016-2017",
+        "country_code": "LK",
+        "short_description": "Created site layouts with AutoCAD, managed projects with MS Project, and represented the organization in bid meetings and discussions with stakeholders.",
+        "period2": "Jun 2016 - Jun 2017",
+        "duration": "1 yr 1 mo",
+        "company_link": "https://elslanka.com/",
+        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "technology_used": [
+            "include short description",
+            "include short description",
+            "include short description",
+            "include short description",
+            ""
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/els_logo.jpg"
+    }
+]

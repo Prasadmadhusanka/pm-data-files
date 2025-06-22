@@ -1,0 +1,85 @@
+[
+    {
+        "university_name": "University of M\u00fcnster",
+        "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
+        "period": "2023-2024",
+        "country_code": "DE",
+        "short_description": "Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "department_name": "Institute for Geoinformatics",
+        "institue_link": "https://www.uni-muenster.de/Geoinformatics/en/index.html",
+        "long_description": "medium, credits, semesters, university description, include short description. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "key_modules": [
+            "Master Thesis in Data Visualization",
+            "Core Topics in Geographic Information Science",
+            "Spatial Data Science with R",
+            "Machine Learning for Visual Spatio-Temporal Data",
+            "Applied Geoinformatics for environmental assessment"
+        ],
+        "grade": "Overall Grade - B (ECTS grading scale)<br>Local Grade - 1.7 (B+)",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ifgi_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
+    },
+    {
+        "university_name": "Universitat Jaume I",
+        "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
+        "period": "2022-2023",
+        "country_code": "ES",
+        "short_description": "Erasmus Mundus Joint Master Degree with a focus on geoinformatics, geospatial data science, data visualization, and building spatial web applications using modern web technologies.",
+        "department_name": "School of Technology and Experimental Sciences",
+        "institue_link": "https://www.uji.es/estudis/base/2025/masters/geoespacial-2022/",
+        "long_description": "medium, credits, semesters, university description, include short description. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "key_modules": [
+            "Data Science and Machine Learning",
+            "Geographic Information Systems: Desktop to Web",
+            "Spatial Data Services and Application Development",
+            "Data Exploration-Visualization and Management",
+            "Earth Observation and Remote Sensing",
+            "Programming for GIS (JavaScript)",
+            "GIS Applications and Trends"
+        ],
+        "grade": "Overall Grade - B (ECTS grading scale)<br>Local Grade - 8.50-8.99 (notable)",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uji_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
+    },
+    {
+        "university_name": "University of Moratuwa",
+        "degree": "Bachelor of Science in Engineering (Honours)",
+        "period": "2011-2016",
+        "country_code": "LK",
+        "short_description": "Gained in-depth expertise in Earth Resources Engineering, Remote Sensing, and GIS, supported by strong foundations in surveying techniques, applied mathematics, and geospatial technologies.",
+        "department_name": "Department of Earth Resources Engineering",
+        "institue_link": "https://uom.lk/ere",
+        "long_description": "medium, credits, semesters, university description, include short description. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "key_modules": [
+            "Principles of Remote Sensing and GIS",
+            "Applied Mathematics",
+            "Programming and Visual Computing",
+            "Surveying and Geospatial Measurement",
+            "Engineering Drawing and CAD Modelling"
+        ],
+        "grade": "Overall GPA - 3.23 (Second Lower Division)",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uom_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1IshrxEEysNuII8J0NGV5iKTaM54svrgV/view?usp=sharing"
+    },
+    {
+        "university_name": "Institute of Java & Software Engineering",
+        "degree": "CMJD - Comprehensive Master Java Developer Program",
+        "period": "2010-2011",
+        "country_code": "LK",
+        "short_description": "Developed practical skills in database management with MySQL, software development, and object-oriented programming using Java.",
+        "department_name": "",
+        "institue_link": "https://www.ijse.lk/",
+        "long_description": "medium, credits, semesters, university description, include short description. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "key_modules": [
+            "Object-Oriented Programming with Java",
+            "Database Systems and SQL Programming",
+            "JDBC and Backend Integration",
+            "User Interface (UI) Design and Development",
+            "Application Architecture and Reporting",
+            "Algorithms-Data Structures and RegEx"
+        ],
+        "grade": "",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ijse_logo.jpg",
+        "degree_certificate_link": ""
+    }
+]
