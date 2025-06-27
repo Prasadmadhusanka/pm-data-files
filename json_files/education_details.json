@@ -15,7 +15,8 @@
             "Machine Learning for Visual Spatio-Temporal Data",
             "Applied Geoinformatics for environmental assessment"
         ],
-        "grade": "Overall Grade - B (ECTS grading scale)<br>Local Grade - 1.7 (B+)",
+        "grade1": "Overall Grade - B (ECTS grading scale)",
+        "grade2": "Local Grade - 1.7 (B+)",
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ifgi_logo.jpg",
         "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
     },
@@ -37,7 +38,8 @@
             "Programming for GIS (JavaScript)",
             "GIS Applications and Trends"
         ],
-        "grade": "Overall Grade - B (ECTS grading scale)<br>Local Grade - 8.50-8.99 (notable)",
+        "grade1": "Overall Grade - B (ECTS grading scale)",
+        "grade2": "Local Grade - 8.50-8.99 (notable)",
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uji_logo.jpg",
         "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
     },
@@ -57,7 +59,8 @@
             "Surveying and Geospatial Measurement",
             "Engineering Drawing and CAD Modelling"
         ],
-        "grade": "Overall GPA - 3.23 (Second Lower Division)",
+        "grade1": "Overall GPA - 3.23",
+        "grade2": "Second Lower Division",
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uom_logo.jpg",
         "degree_certificate_link": "https://drive.google.com/file/d/1IshrxEEysNuII8J0NGV5iKTaM54svrgV/view?usp=sharing"
     },
@@ -78,7 +81,8 @@
             "Application Architecture and Reporting",
             "Algorithms-Data Structures and RegEx"
         ],
-        "grade": "",
+        "grade1": "",
+        "grade2": "",
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ijse_logo.jpg",
         "degree_certificate_link": ""
     }
