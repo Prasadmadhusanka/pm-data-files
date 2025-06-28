@@ -1,6 +1,7 @@
 [
     {
         "university_name": "University of M\u00fcnster",
+        "university_link": "https://www.uni-muenster.de/en/",
         "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
         "period": "2023-2024",
         "country_code": "DE",
@@ -22,6 +23,7 @@
     },
     {
         "university_name": "Universitat Jaume I",
+        "university_link": "https://www.uji.es/",
         "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
         "period": "2022-2023",
         "country_code": "ES",
@@ -45,6 +47,7 @@
     },
     {
         "university_name": "University of Moratuwa",
+        "university_link": "https://uom.lk/",
         "degree": "Bachelor of Science in Engineering (Honours)",
         "period": "2011-2016",
         "country_code": "LK",
@@ -66,12 +69,13 @@
     },
     {
         "university_name": "Institute of Java & Software Engineering",
+        "university_link": "https://www.ijse.lk/",
         "degree": "CMJD - Comprehensive Master Java Developer Program",
         "period": "2010-2011",
         "country_code": "LK",
         "short_description": "Developed practical skills in database management with MySQL, software development, and object-oriented programming using Java.",
         "department_name": "",
-        "institue_link": "https://www.ijse.lk/",
+        "institue_link": "",
         "long_description": "medium, credits, semesters, university description, include short description. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies. Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
         "key_modules": [
             "Object-Oriented Programming with Java",
