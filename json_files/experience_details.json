@@ -4,16 +4,22 @@
         "designation": "Front-end Web Developer",
         "period1": 2023,
         "country_code": "DE",
-        "short_description": "Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "short_description": "Contributed to the development of the website for the GeoMundus Conference 2023, held in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design, performance optimization, debugging, and effective team collaboration.",
         "period2": "Apr 2023 - Oct 2023",
         "duration": "7 mos",
         "company_link": "https://geomundus.org/2023/",
-        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "long_description": "As part of the web team for the GeoMundus Conference 2023, I contributed to the development of the official website with a strong focus on front-end development. My responsibilities included building a responsive and semantic HTML structure, styling with CSS, SCSS, and SASS, and ensuring cross-browser compatibility. I optimized website performance by minimizing resources, optimizing images, and implementing lazy loading techniques. I prioritized user experience by designing intuitive navigation and accessible, user-friendly interfaces. I also handled debugging using Chrome Developer Tools and maintained high code quality through linting tools like Stylelint and Prettier in VS Code. Collaboration and project management were key aspects of my role, using Git for version control and Trello for task tracking, workflow planning, and team communication.",
         "technology_used": [
-            "include short description",
-            "include short description",
-            "include short description",
-            "include short description"
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "SCSS",
+            "SASS",
+            "MS VS Code",
+            "Git",
+            "GitHub",
+            "Trello",
+            "Chrome Developer tools"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/geomundus_logo.jpg"
     },
@@ -26,17 +32,20 @@
         "period2": "Jun 2018 - Sep 2022",
         "duration": "4 yrs 3 mos",
         "company_link": "https://www.gsmb.gov.lk/index.php?lang=en",
-        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "long_description": "In my role, I was responsible for automating workflows for file and application movement using SQL, relational DBMS, and data dashboards, which significantly improved process efficiency. I gathered and processed geospatial data through GPS surveys, ArcGIS field tools, and Google Earth, maintaining geodatabases using ETL workflows. I converted spatial data formats such as KML to SHP and CSV to GeoJSON to enhance data usability. Additionally, I designed and developed interactive digital maps using ArcGIS tools to identify optimal mining areas and detect illegal mining operations. My work included conducting spatial queries and buffer analyses to assess nearby structures and highlight blasting risk zones for public awareness. I also provided GIS training and represented the organization in meetings with government agencies, private sector stakeholders, and international companies.",
         "technology_used": [
-            "include short description",
-            "include short description",
-            "include short description",
-            "include short description"
+            "ArcGIS Products",
+            "Microsoft Excel",
+            "PostgreSQL",
+            "MS Excel Pivot Tables",
+            "GPS",
+            "Google Earth Pro",
+            ""
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmb_logo.jpg"
     },
     {
-        "company_name": "GSMB Technical Services (PVT) LTD., Hambantota, Sri Lanka.",
+        "company_name": "GSMB Technical Services (PVT) LTD., Colombo, Sri Lanka.",
         "designation": "GIS Analyst",
         "period1": "2017-2018",
         "country_code": "LK",
@@ -44,12 +53,14 @@
         "period2": "Oct 2017 - Jun 2018",
         "duration": "9 mos",
         "company_link": "https://www.gsmbts.gov.lk/",
-        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "long_description": "As a GIS Analyst on the Main Highway construction project\u2014specifically the Southern Expressway Extension (ESEP3) in Hambantota, where extensive blasting operations were required to remove large rock formations\u2014I was responsible for supporting geospatial analysis and mapping efforts. I conducted drone surveys to capture aerial imagery in hard-to-reach areas, enhancing data collection and site evaluation. Using ArcMap and AutoCAD, I performed buffer zone calculations, utility mapping, and spatial data analysis to inform project decisions. I also integrated GPS survey data into GIS platforms to develop geospatial models for planning and monitoring. Project progress was tracked using MS Project, and I worked closely with engineers and project managers to define requirements and deliver accurate geospatial outputs. Additionally, I analyzed large spatial datasets using spreadsheets, leveraging pivot tables and visualizations to organize data and extract actionable insights.",
         "technology_used": [
-            "include short description",
-            "include short description",
-            "include short description",
-            "include short description"
+            "ArcMap",
+            "AutoCAD",
+            "Land Surveying",
+            "Aerial Surveys",
+            "Microsoft Excel",
+            "Google Earth Pro"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmbts_logo.jpg"
     },
@@ -62,12 +73,12 @@
         "period2": "Jun 2016 - Jun 2017",
         "duration": "1 yr 1 mo",
         "company_link": "https://elslanka.com/",
-        "long_description": "include short description, Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration. Contributed to the development of the GeoMundus Conference 2023 website in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design,performance optimization, debugging, and effective team collaboration.",
+        "long_description": "In this role, I was actively involved in both technical and managerial aspects of project execution. My primary responsibilities included creating precise site layouts and cross-sectional drawings using AutoCAD, which were essential for guiding construction activities and ensuring compliance with design specifications. I also played a key role in project management by using MS Project to develop schedules, monitor progress, allocate resources, and ensure that project milestones were met on time. This required close coordination with multidisciplinary teams to maintain workflow efficiency and resolve issues proactively. Furthermore, I represented the organization in high-level bid meetings and took part in discussions with government agencies, private companies, and international stakeholders. These engagements allowed me to contribute to strategic planning, present technical insights, and help foster strong professional relationships critical to the success of the projects.",
         "technology_used": [
-            "include short description",
-            "include short description",
-            "include short description",
-            "include short description"
+            "AutoCAD",
+            "MS Project",
+            "MS Excel",
+            "Land Surveying"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/els_logo.jpg"
     }
