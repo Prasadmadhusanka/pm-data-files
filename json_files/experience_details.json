@@ -15,11 +15,12 @@
             "CSS",
             "SCSS",
             "SASS",
-            "MS VS Code",
+            "Visual Studio Code",
             "Git",
             "GitHub",
             "Trello",
-            "Chrome Developer tools"
+            "Chrome DevTools",
+            "Adobe Illustrator"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/geomundus_logo.jpg"
     },
@@ -37,10 +38,9 @@
             "ArcGIS Products",
             "Microsoft Excel",
             "PostgreSQL",
-            "MS Excel Pivot Tables",
+            "Excel Pivot Tables",
             "GPS",
-            "Google Earth Pro",
-            ""
+            "Google Earth Pro"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmb_logo.jpg"
     },
@@ -77,7 +77,7 @@
         "technology_used": [
             "AutoCAD",
             "MS Project",
-            "MS Excel",
+            "Microsoft Excel",
             "Land Surveying"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/els_logo.jpg"
