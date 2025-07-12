@@ -27,6 +27,19 @@
     },
     {
         "id": 3,
+        "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/linkedin_logo.png",
+        "name": "FME Desktop: Data Translation for\nAEC",
+        "issued_by": "LinkedIn",
+        "certificate_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates/linkedin_fme.png",
+        "credential_id_status": "No",
+        "credential_id": "",
+        "verify_url_status": "Yes",
+        "verify_url": "https://www.linkedin.com/learning/certificates/9f4aff9b54005fdb5ea536c3f379f1c3c0fcee53534964ee2934eb34751627e3",
+        "date_status": "Issued on:",
+        "date": "July 12, 2025"
+    },
+    {
+        "id": 4,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/meta_logo.png",
         "name": "Meta Front - End Developer Professional Certificate",
         "issued_by": "Meta",
@@ -39,7 +52,7 @@
         "date": "March 07, 2025"
     },
     {
-        "id": 4,
+        "id": 5,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/meta_logo.png",
         "name": "Advanced React",
         "issued_by": "Meta",
@@ -52,7 +65,7 @@
         "date": "March 07, 2025"
     },
     {
-        "id": 5,
+        "id": 6,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/itc_logo.png",
         "name": "Geo Web App Building with OS Tools",
         "issued_by": "ITC - University of Twente",
@@ -65,7 +78,7 @@
         "date": "November 24, 2024"
     },
     {
-        "id": 6,
+        "id": 7,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/esri_logo.png",
         "name": "Make an Impact with Modern Geo Apps - MOOC",
         "issued_by": "Esri",
@@ -78,7 +91,7 @@
         "date": "October 19, 2024"
     },
     {
-        "id": 7,
+        "id": 8,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/ibm_logo.png",
         "name": "IBM Data Science Professional Certificate",
         "issued_by": "IBM",
@@ -91,7 +104,7 @@
         "date": "September 01, 2024"
     },
     {
-        "id": 8,
+        "id": 9,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/esri_logo.png",
         "name": "Cartography - MOOC",
         "issued_by": "Esri",
@@ -104,7 +117,7 @@
         "date": "May 19, 2024"
     },
     {
-        "id": 9,
+        "id": 10,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/esri_logo.png",
         "name": "GIS for Climate Action - MOOC",
         "issued_by": "Esri",
@@ -117,7 +130,7 @@
         "date": "December 01, 2023"
     },
     {
-        "id": 10,
+        "id": 11,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/esri_logo.png",
         "name": "Spatial Data Science: The New Frontier in Analytics - MOOC",
         "issued_by": "Esri",
@@ -130,7 +143,7 @@
         "date": "October 11, 2023"
     },
     {
-        "id": 11,
+        "id": 12,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/uom_logo.png",
         "name": "Python Programming",
         "issued_by": "University of Moratuwa",
@@ -143,7 +156,7 @@
         "date": "May 14, 2023"
     },
     {
-        "id": 12,
+        "id": 13,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/uom_logo.png",
         "name": "Front - End Web Development",
         "issued_by": "University of Moratuwa",
@@ -156,7 +169,7 @@
         "date": "May 14, 2023"
     },
     {
-        "id": 13,
+        "id": 14,
         "logo": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/certificates_logos/unmappers_logo.png",
         "name": "OpenStreetMap and Humanitarian Mapping",
         "issued_by": "UN Mappers",
