@@ -32,6 +32,38 @@
     },
     {
         "id": 2,
+        "image_id": "img05",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_5.jpg",
+        "title": "VerticalGeoVis - Web Application (Master Thesis Project)",
+        "technologies": [
+            "Leaflet.js",
+            "D3.js",
+            "JavaScript (ES5 & ES6+)",
+            "HTML5",
+            "CSS3",
+            "Fetch API",
+            "LimeSurvey",
+            "R",
+            "bootES (R Package)",
+            "GitHub Pages",
+            "ArcGIS Story Maps"
+        ],
+        "description": "This project presents a web application for visualizing the vertical context of the 10 most populated German cities. It integrates vertical attributes into a single interface using data from the DBpedia Live Sync API and UBA Air Data API (v3.0.0). Data is structured in 2D/3D arrays, stored as JSON, and visualized using D3.js Zoomable Circle Packing, Spiral-type Leaflet Markers, and a tabular view. User interactions and task completion times are tracked via LimeSurvey. Results are statistically analyzed using the bootES R package to evaluate the effectiveness of each visualization method for conveying vertical context of geographic locations.",
+        "associatedwith": "University of M\u00fcnster, Germany",
+        "link": "https://storymaps.arcgis.com/stories/6be3fab22260458992f02a38da81d23e",
+        "updatedate": "February 2024",
+        "category": [
+            "Web Development",
+            "API Integration",
+            "Data Science"
+        ]
+    },
+    {
+        "id": 3,
         "image_id": "img02",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_2.jpg",
@@ -40,15 +72,15 @@
         "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_5.jpg",
         "title": "BlackJack-2Player (Player vs Computer) written in JavaScript",
         "technologies": [
-            "JavaScript",
-            "CSS",
-            "HTML",
+            "JavaScript ES5",
+            "CSS3",
+            "HTML5",
             "Bootstrap",
             "Data Structures",
             "GitHub Pages"
         ],
         "description": "BlackJack-2Player is a browser-based game where the player competes against the computer in classic Blackjack. Developed with HTML5, JavaScript (ES5), CSS3, and Bootstrap 3.3, it features responsive design and smooth animations. Core logic uses arrays, objects, and classes. Built in Visual Studio Code, version-controlled with Git/GitHub, and deployed via GitHub Pages.",
-        "associatedwith": "Universitat Jaume I",
+        "associatedwith": "Universitat Jaume I, Spain",
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "December 2022",
         "category": [
@@ -56,7 +88,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 4,
         "image_id": "img03",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_2.jpg",
@@ -76,7 +108,7 @@
             "Adobe AfterEffects"
         ],
         "description": "Built an end-to-end ETL pipeline and static visualizations to analyze natural gas consumption, production, exports, imports, reserves, and trends across EEA countries using FME, Python, and Jupyter. Leveraged Pandas, GeoPandas, Matplotlib, and Seaborn for efficient data processing and insightful geographic and temporal visualizations.",
-        "associatedwith": "Universitat Jaume I",
+        "associatedwith": "Universitat Jaume I, Spain",
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization?tab=readme-ov-file",
         "updatedate": "December 2022",
         "category": [
@@ -84,7 +116,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 5,
         "image_id": "img04",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_2.jpg",
@@ -105,7 +137,7 @@
             "ArcGIS Story Maps"
         ],
         "description": "Modeled an ERD during the conceptual design stage with spatial attributes (POINT, LINESTRING, POLYGON). Used PostgreSQL, PostGIS, and ArcGIS Pro to build a spatial database assessing highway blasting impacts on nearby structures. Integrated spatial and non-spatial data, optimized queries, and visualized results to support safety planning, regulatory compliance, and data-driven decision-making.",
-        "associatedwith": "Universitat Jaume I",
+        "associatedwith": "Universitat Jaume I, Spain",
         "link": "https://storymaps.arcgis.com/stories/25ae7f0de71c492f9a718b5a5c65ee65",
         "updatedate": "November 2022",
         "category": [
