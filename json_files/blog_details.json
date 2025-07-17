@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "My Flights Dashboard",
-        "video_link": "https://myflightdashboard.s3.eu-central-1.amazonaws.com/flight.mp4",
+        "video_link": "https://myflightdashboard.s3.eu-central-1.amazonaws.com/Flight_Video.mp4",
         "page_link": "https://www.FlightyDashboard.com",
         "description": "An interactive dashboard tracking my flight experiences and air travel history, with real-time statistics and beautiful visualizations of my journeys around the globe.",
         "last_update": "April 25, 2025"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "My Travel Vlog",
-        "video_link": "https://myflightdashboard.s3.eu-central-1.amazonaws.com/travel.mp4",
+        "video_link": "https://myflightdashboard.s3.eu-central-1.amazonaws.com/Travel_Video.mp4",
         "page_link": "https://www.puvlogs.com",
         "description": "A visual chronicle of my adventures around the world - capturing breathtaking landscapes, vibrant cultures, unforgettable moments, and stunning aerial views from a bird\u2019s-eye perspective.",
         "last_update": "June 30, 2025"
