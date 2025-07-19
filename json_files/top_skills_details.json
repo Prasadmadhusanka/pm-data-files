@@ -1,6 +1,6 @@
 [
     {
-        "skill": "JavaScript ES5/ ES6",
+        "skill": "JavaScript ES5/ ES6+",
         "percentage": 90
     },
     {
@@ -13,7 +13,7 @@
     },
     {
         "skill": "ArcGIS Suite (ArcGIS Pro, ArcGIS Online)",
-        "percentage": 85
+        "percentage": 90
     },
     {
         "skill": "PostgreSQL/PostGIS",
