@@ -105,7 +105,7 @@
         "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_3.jpg",
         "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_4.jpg",
         "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_5.jpg",
-        "title": "nearPointR-An R Package for Real-Time Location based services using Geoapify API with Leaflet",
+        "title": "nearPointR-R Package for Real-Time Location based services using Geoapify API with Leaflet",
         "technologies": [
             "R",
             "Leaflet",
