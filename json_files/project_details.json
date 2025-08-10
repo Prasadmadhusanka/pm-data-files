@@ -98,6 +98,34 @@
         ]
     },
     {
+        "id": 7,
+        "image_id": "img07",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_5.jpg",
+        "title": "nearPointR-An R Package for Real-Time Location based services using Geoapify API with Leaflet",
+        "technologies": [
+            "R",
+            "Leaflet",
+            "RestAPI",
+            "Geoapify API",
+            "R Studio",
+            "R Markdown",
+            "Git",
+            "GitHub"
+        ],
+        "description": "nearPointR is an R package offering real-time location-based services using the Geoapify API and Leaflet for interactive maps. It allows users to visualize their current location, explore nearby points of interest like restaurants and pharmacies, download location data in CSV, GeoJSON, or KML formats, and navigate to the closest location via Google Maps. With customizable basemaps and categories, nearPointR provides an efficient, user-friendly tool for spatial analysis, data sharing, and navigation within R environments such as R Studio and R Markdown.",
+        "associatedwith": "University of M\u00fcnster, Germany",
+        "link": "https://github.com/Prasadmadhusanka/nearPointR-An-R-Package-For-Real-Time-Location-Based-Services-using-Geoapify-API-with-Leaflet",
+        "updatedate": "July 2023",
+        "category": [
+            "API Integration",
+            "Data Science"
+        ]
+    },
+    {
         "id": 3,
         "image_id": "img02",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_1.jpg",
