@@ -1,5 +1,35 @@
 [
     {
+        "id": 8,
+        "image_id": "img08",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_3.gif",
+        "imageurl4": "",
+        "imageurl5": "",
+        "title": "Automated End-to-End ETL Workflow for European Air Traffic Data Lake Creation Using FME",
+        "technologies": [
+            "ETL",
+            "Big Data Lake",
+            "FME",
+            "RestAPI",
+            "Aviation Edge API",
+            "Automation",
+            "Windows Task Scheduler",
+            "GeoJson",
+            "Json",
+            "CSV"
+        ],
+        "description": "This project implements a fully automated end-to-end ETL pipeline using FME Desktop to build a real-time EU air traffic data lake. It combines flight arrival and departure data from the Aviation Edge API with detailed geo-spatial airport information from OpenAIP and OurAirports. The workflow extracts, transforms, and loads dynamic flight data into a scalable GeoJSON data lake, enabling timely analytics. Automation through Windows Task Scheduler ensures twice-daily updates, supporting comprehensive analysis of daily, monthly, seasonal, and annual aviation traffic in the EU via a generated dashboard and Python-based data analysis using GeoPandas.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://github.com/Prasadmadhusanka/Automated-End-to-End-ETL-Workflow-for-European-Air-Traffic-Data-Lake-Creation-Using-FME",
+        "updatedate": "August 2025",
+        "category": [
+            "Data Science",
+            "API Integration"
+        ]
+    },
+    {
         "id": 6,
         "image_id": "img06",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_1.jpg",
@@ -121,8 +151,8 @@
         "link": "https://github.com/Prasadmadhusanka/nearPointR-An-R-Package-For-Real-Time-Location-Based-Services-using-Geoapify-API-with-Leaflet",
         "updatedate": "July 2023",
         "category": [
-            "API Integration",
-            "Data Science"
+            "Data Science",
+            "API Integration"
         ]
     },
     {
