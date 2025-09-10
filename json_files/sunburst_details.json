@@ -125,11 +125,6 @@
         "parents": "DataScience"
     },
     {
-        "ids": "APIDevelopment",
-        "labels": "API Development",
-        "parents": "DataScience"
-    },
-    {
         "ids": "MachineLearning",
         "labels": "Machine Learning",
         "parents": "DataScience"
@@ -325,13 +320,38 @@
         "parents": "VersionControl"
     },
     {
+        "ids": "GitLab",
+        "labels": "GitLab",
+        "parents": "VersionControl"
+    },
+    {
         "ids": "RESTAPIs",
         "labels": "REST API",
         "parents": "APIIntegration"
     },
     {
+        "ids": "Axios",
+        "labels": "Axios",
+        "parents": "APIIntegration"
+    },
+    {
         "ids": "FetchAPI",
         "labels": "Fetch API",
+        "parents": "APIIntegration"
+    },
+    {
+        "ids": "AJAX",
+        "labels": "AJAX",
+        "parents": "APIIntegration"
+    },
+    {
+        "ids": "WebSockets",
+        "labels": "WebSockets",
+        "parents": "APIIntegration"
+    },
+    {
+        "ids": "ArcGISAPIforJavaScript",
+        "labels": "ArcGIS API for JavaScript",
         "parents": "APIIntegration"
     },
     {
@@ -382,11 +402,6 @@
     {
         "ids": "ArcGISDashboard",
         "labels": "ArcGIS Dashboard",
-        "parents": "ArcGISSuite"
-    },
-    {
-        "ids": "ArcGISExperienceBuilder",
-        "labels": "ArcGIS<br>Experience Builder",
         "parents": "ArcGISSuite"
     },
     {
@@ -638,10 +653,5 @@
         "ids": "BeautifulSoup",
         "labels": "BeautifulSoup",
         "parents": "WebScraping"
-    },
-    {
-        "ids": "FastAPI",
-        "labels": "FastAPI",
-        "parents": "APIDevelopment"
     }
 ]
