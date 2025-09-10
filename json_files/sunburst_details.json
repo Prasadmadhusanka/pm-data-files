@@ -480,6 +480,11 @@
         "parents": "DataVisualization"
     },
     {
+        "ids": "OpenLayers",
+        "labels": "OpenLayers",
+        "parents": "DataVisualization"
+    },
+    {
         "ids": "ggplot2",
         "labels": "ggplot2",
         "parents": "DataVisualization"
@@ -522,6 +527,21 @@
     {
         "ids": "ReactSlick",
         "labels": "React Slick",
+        "parents": "FrameworkLibraries"
+    },
+    {
+        "ids": "ReactSelect",
+        "labels": "React Select",
+        "parents": "FrameworkLibraries"
+    },
+    {
+        "ids": "tzlookup",
+        "labels": "tz-lookup",
+        "parents": "FrameworkLibraries"
+    },
+    {
+        "ids": "luxon",
+        "labels": "luxon",
         "parents": "FrameworkLibraries"
     },
     {
