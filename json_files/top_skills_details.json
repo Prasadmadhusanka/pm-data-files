@@ -1,42 +1,42 @@
 [
     {
         "skill": "JavaScript ES5/ ES6+",
-        "percentage": 90
+        "percentage": 95
     },
     {
         "skill": "React",
-        "percentage": 85
+        "percentage": 90
     },
     {
         "skill": "Python",
         "percentage": 90
     },
     {
-        "skill": "ArcGIS Suite (ArcGIS Pro, ArcGIS Online)",
+        "skill": "PostgreSQL/ PostGIS",
+        "percentage": 95
+    },
+    {
+        "skill": "ArcGIS Pro, ArcGIS Online, QGIS",
         "percentage": 90
     },
     {
-        "skill": "PostgreSQL/PostGIS",
-        "percentage": 90
-    },
-    {
-        "skill": "MySQL",
-        "percentage": 90
-    },
-    {
-        "skill": "R",
-        "percentage": 80
-    },
-    {
-        "skill": "ETL Tools (FME, ArcGIS ModelBuilder)",
-        "percentage": 80
-    },
-    {
-        "skill": "git, GitHub",
-        "percentage": 90
-    },
-    {
-        "skill": "Adobe Photoshop",
+        "skill": "Geoserver & OGC Standards(WMS, WFS, WMTS)",
         "percentage": 85
+    },
+    {
+        "skill": "ETL Tools (FME Desktop, ArcGIS ModelBuilder)",
+        "percentage": 85
+    },
+    {
+        "skill": "OpenLayers, Leaflet",
+        "percentage": 90
+    },
+    {
+        "skill": "Tableau",
+        "percentage": 90
+    },
+    {
+        "skill": "Version Control (git/GitHub)",
+        "percentage": 90
     }
 ]
