@@ -8,9 +8,9 @@
         "short_description": "Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
         "department_name": "Institute for Geoinformatics",
         "institue_link": "https://www.uni-muenster.de/Geoinformatics/en/index.html",
-        "long_description": "As part of the Erasmus Mundus Joint Master\u2019s Degree program specializing in Geoinformatics and Geospatial Data Science, I completed my second and final semesters, including the Master\u2019s thesis, at the Institute for Geoinformatics. During this period, I earned 60 out of the total 90 ECTS credits required for the program. My studies focused on advanced topics such as geospatial data visualization and the development of spatial web applications using modern web technologies. The medium of instruction was English, and the curriculum emphasized both theoretical foundations and practical skills in geospatial technologies and data-driven solutions.",
+        "long_description": "As part of the Erasmus Mundus Joint Master\u2019s Degree program specializing in Geoinformatics and Geospatial Data Science, I completed my second and final semesters, including the Master\u2019s thesis, at the Institute for Geoinformatics. During this period, I earned 60 out of the total 90 ECTS credits required for the program. My studies focused on advanced topics such as geospatial data visualization and the development of Web GIS applications using modern web technologies. The medium of instruction was English, and the curriculum emphasized both theoretical foundations and practical skills in geospatial technologies and data-driven solutions.",
         "key_modules": [
-            "Master Thesis in Data Visualization",
+            "Master Thesis in Linked Data Visualization",
             "Core Topics in Geographic Information Science",
             "Spatial Data Science with R",
             "Machine Learning for Visual Spatio-Temporal Data",
