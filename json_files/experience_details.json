@@ -8,20 +8,25 @@
         "period2": "Apr 2023 - Oct 2023",
         "duration": "7 mos",
         "company_link": "https://geomundus.org/2023/",
-        "long_description": "As part of the web team for the GeoMundus Conference 2023, I contributed to the development of the official website with a strong focus on front-end development. My responsibilities included building a responsive and semantic HTML structure, styling with CSS, SCSS, and SASS, and ensuring cross-browser compatibility. I optimized website performance by minimizing resources, optimizing images, and implementing lazy loading techniques. I prioritized user experience by designing intuitive navigation and accessible, user-friendly interfaces. I also handled debugging using Chrome Developer Tools and maintained high code quality through linting tools like Stylelint and Prettier in VS Code. Collaboration and project management were key aspects of my role, using Git for version control and Trello for task tracking, workflow planning, and team communication.",
+        "long_description": "As part of the web team for the GeoMundus Conference 2023, I contributed to the development of the official website by focusing on front-end development tasks. My key responsibilities included:",
+        "responsibility": [
+            "Responsive Web Design & UI/UX: Developed modern, responsive web designs using semantic HTML and CSS, enhancing user experience through intuitive navigation and accessible layouts.",
+            "Front-End Performance Optimization: Improved page load times and efficiency by 60% through resource minimization, image compression, lazy loading, and cross-browser compatibility fixes using Chrome DevTools and Lighthouse.",
+            "Code Quality & Consistency: Maintained clean, standardized code using Stylelint and Prettier within VS Code, ensuring high-quality front-end development.",
+            "Version Control & Agile Collaboration: Managed code and project workflow using Git/GitHub and applied Agile methodologies with Trello to streamline team coordination and task management."
+        ],
         "technology_used": [
             "JavaScript",
             "HTML",
             "CSS",
-            "SCSS",
-            "SASS",
             "Visual Studio Code",
             "Git",
             "GitHub",
             "Trello",
             "Chrome DevTools",
             "Lighthouse",
-            "Adobe Illustrator"
+            "Adobe Illustrator",
+            "Adobe Photoshop"
         ],
         "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/geomundus_logo.jpg"
     },
@@ -34,7 +39,14 @@
         "period2": "Jun 2018 - Sep 2022",
         "duration": "4 yrs 3 mos",
         "company_link": "https://www.gsmb.gov.lk/index.php?lang=en",
-        "long_description": "In my role, I automated end-to-end workflows for file and application movement and maintained the mining site geodatabase using PostgreSQL and PostGIS, leveraging spatial queries and dashboards to improve efficiency by 90%. I collected geospatial data from UAVs, GPS surveys, ArcGIS field tools, and Google Earth across 250+ mining sites, processing datasets through ETL pipelines into geodatabases. I automated the conversion of geospatial data into KML, KMZ, JSON, GeoJSON, Shapefile, and CSV formats, while filling null fields to enhance data accuracy and reduce manual processing time by 70%. Additionally, I integrated remote sensing data with GIS workflows to monitor land-use changes and detect illegal mining activities. I conducted spatial analyses, including hotspot analysis and kernel density estimation using ArcGIS and QGIS, developing maps and dashboards to identify mining hotspots, determine optimal exploration areas, and support risk assessment.",
+        "long_description": "",
+        "responsibility": [
+            "Automated end-to-end workflows for file and application movement, maintained the mining site geodatabase using PostgreSQL, PostGIS, with spatial querying and created dashboards, improved efficiency by 90%.",
+            "Collected geospatial data using UAVs, GPS surveys, ArcGIS field tools, and Google Earth for 250+ mining sites, processed datasets through ETL pipelines into geodatabases.",
+            "Automated conversion of geospatial data to KML, KMZ, JSON, GeoJSON, Shapefile, and CSV formats, filled null fields in databases, improving data accuracy and reducing manual processing time by 70%.",
+            "Integrated remote sensing data with GIS workflows to monitor land-use changes and detect illegal mining activities.",
+            "Conducted spatial analyses, hot spot analysis, kernel density estimation using ArcGIS, QGIS to develop maps and dashboards to identify mining hotspots, determine optimal exploration areas, and support risk assessment."
+        ],
         "technology_used": [
             "ArcGIS Products",
             "QGIS",
@@ -58,7 +70,14 @@
         "period2": "Oct 2017 - Jun 2018",
         "duration": "9 mos",
         "company_link": "https://www.gsmbts.gov.lk/",
-        "long_description": "As a GIS Analyst on the Southern Expressway Extension Project (ESEP3) in Hambantota, part of the Main Highway construction, I supported geospatial analysis and mapping throughout the project. I developed spatial databases in PostgreSQL/PostGIS, incorporating highway chainages, nearby structures, construction details, and land-use data, and performed spatial queries and visualizations to support decision-making. Using ArcMap and QGIS, I conducted spatial analyses on large-scale Earth Observation datasets, including land use classification, buffer zone calculations, utility mapping, and network analysis. I enhanced site data collection with drone surveys and integrated GPS survey data into GIS platforms. To improve efficiency, I automated geoprocessing workflows using Python and SQL scripts for data cleaning, feature extraction, and report generation. Project progress was tracked using MS Project, and I collaborated with engineers and managers to define requirements, ensure accuracy, and deliver timely reports. Additionally, I analyzed large datasets using spreadsheets, applying pivot tables and visualizations to extract actionable insights.",
+        "long_description": "Worked as a GIS Analyst on the Main Highway construction project, specifically focusing on Southern Expressway Extension (ESEP3) in Hambantota, where significant blasting operations were conducted to remove large rock obstacles. My key responsibilities included:",
+        "responsibility": [
+            "Developed large spatial databases with highway chainages, nearby structures, construction, and land-use data using PostgreSQL/PostGIS, performing spatial queries, visualizations to support data-driven decision-making.",
+            "Conducted spatial analyses on large-scale EO datasets with ArcMap, QGIS for land use classification, buffering, utility and network mapping.",
+            "Managed projects using MS Project to track progress and ensure timely completion.",
+            "Collaborated with engineers and project managers to define geospatial project requirements and ensure data accuracy, timely delivery of data and reports.",
+            "Automated geoprocessing workflows using Python and SQL scripts, improving efficiency in data cleaning, feature extraction, and report generation."
+        ],
         "technology_used": [
             "ArcMap",
             "QGIS",
@@ -83,7 +102,12 @@
         "period2": "Jun 2016 - Jun 2017",
         "duration": "1 yr 1 mo",
         "company_link": "https://elslanka.com/",
-        "long_description": "In this role, I was actively involved in both technical and managerial aspects of project execution. My primary responsibilities included creating precise site layouts and cross-sectional drawings using AutoCAD, which were essential for guiding construction activities and ensuring compliance with design specifications. I also played a key role in project management by using MS Project to develop schedules, monitor progress, allocate resources, and ensure that project milestones were met on time. This required close coordination with multidisciplinary teams to maintain workflow efficiency and resolve issues proactively. Furthermore, I represented the organization in high-level bid meetings and took part in discussions with government agencies, private companies, and international stakeholders. These engagements allowed me to contribute to strategic planning, present technical insights, and help foster strong professional relationships critical to the success of the projects.",
+        "long_description": "",
+        "responsibility": [
+            "Created site layouts and cross-sectional drawings using AutoCAD.",
+            "Managed projects with MS Project to develop schedules, tracking progress, allocate resources and ensuring timely completion through effective teamwork.",
+            "Represented the organization in high-level bid meetings, as well as in discussions with government agencies, private companies, and international stakeholders."
+        ],
         "technology_used": [
             "AutoCAD",
             "MS Project",
