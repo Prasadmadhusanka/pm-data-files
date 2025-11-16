@@ -1,0 +1,632 @@
+[
+    {
+        "ids": "Skills",
+        "labels": "Skills",
+        "parents": ""
+    },
+    {
+        "ids": "AgileEnvironments",
+        "labels": "Agile Environments",
+        "parents": "Skills"
+    },
+    {
+        "ids": "FrontendWebDevelopmentWebMapping",
+        "labels": "Frontend<br>Web Development<br>+<br>Web Mapping",
+        "parents": "Skills"
+    },
+    {
+        "ids": "SpatialDatabases",
+        "labels": "Spatial Databases",
+        "parents": "Skills"
+    },
+    {
+        "ids": "SoftSkills",
+        "labels": "Soft Skills",
+        "parents": "Skills"
+    },
+    {
+        "ids": "Mathematics",
+        "labels": "Mathematics",
+        "parents": "Skills"
+    },
+    {
+        "ids": "DigitalDesignToolsUIUX",
+        "labels": "Digital Design Tools<br>&<br>UI/UX",
+        "parents": "Skills"
+    },
+    {
+        "ids": "NoteBooks",
+        "labels": "NoteBooks",
+        "parents": "Skills"
+    },
+    {
+        "ids": "IDEs",
+        "labels": "IDEs",
+        "parents": "Skills"
+    },
+    {
+        "ids": "DataVisualizationsBITools",
+        "labels": "Data Visualizations<br>+<br>BI Tools",
+        "parents": "Skills"
+    },
+    {
+        "ids": "OperatingSystems",
+        "labels": "Operating Systems",
+        "parents": "Skills"
+    },
+    {
+        "ids": "BackendWebDevelopmentServers",
+        "labels": "Back-end<br>Web Development<br>+<br>Servers",
+        "parents": "Skills"
+    },
+    {
+        "ids": "CloudServicesDevOpsTools",
+        "labels": "Cloud Services<br>+<br>DevOps Tools",
+        "parents": "Skills"
+    },
+    {
+        "ids": "CoreGISSpatialDataProcessing",
+        "labels": "Core GIS<br>+<br>Spatial Data Processing",
+        "parents": "Skills"
+    },
+    {
+        "ids": "ETLBigData",
+        "labels": "ETL + Big Data",
+        "parents": "Skills"
+    },
+    {
+        "ids": "Trello",
+        "labels": "Trello",
+        "parents": "AgileEnvironments"
+    },
+    {
+        "ids": "Jira",
+        "labels": "Jira",
+        "parents": "AgileEnvironments"
+    },
+    {
+        "ids": "FrontEndFrameworks",
+        "labels": "Front-End<br>Frameworks",
+        "parents": "FrontendWebDevelopmentWebMapping"
+    },
+    {
+        "ids": "CSSFrameworks",
+        "labels": "CSS<br>Frameworks",
+        "parents": "FrontendWebDevelopmentWebMapping"
+    },
+    {
+        "ids": "WebMappingLibraries",
+        "labels": "Web Mapping<br>Libraries",
+        "parents": "FrontendWebDevelopmentWebMapping"
+    },
+    {
+        "ids": "CoreWebTechnologies",
+        "labels": "Core Web<br>Technologies",
+        "parents": "FrontendWebDevelopmentWebMapping"
+    },
+    {
+        "ids": "RelationalDatabases",
+        "labels": "Relational<br>Databases",
+        "parents": "SpatialDatabases"
+    },
+    {
+        "ids": "NoSQLDatabases",
+        "labels": "NoSQL<br>Databases",
+        "parents": "SpatialDatabases"
+    },
+    {
+        "ids": "Communication",
+        "labels": "Communication",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "ProblemSolving",
+        "labels": "Problem Solving",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "TeamCollaboration",
+        "labels": "Team Collaboration",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "Creativity",
+        "labels": "Creativity",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "StoryTelling",
+        "labels": "Story Telling",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "Adaptability",
+        "labels": "Adaptability",
+        "parents": "SoftSkills"
+    },
+    {
+        "ids": "Statistics",
+        "labels": "Statistics",
+        "parents": "Mathematics"
+    },
+    {
+        "ids": "Probability",
+        "labels": "Probability",
+        "parents": "Mathematics"
+    },
+    {
+        "ids": "Algebra",
+        "labels": "Algebra",
+        "parents": "Mathematics"
+    },
+    {
+        "ids": "Calculus",
+        "labels": "Calculus",
+        "parents": "Mathematics"
+    },
+    {
+        "ids": "Geometry",
+        "labels": "Geometry",
+        "parents": "Mathematics"
+    },
+    {
+        "ids": "GraphicsImages",
+        "labels": "Graphics<br>&<br>Images",
+        "parents": "DigitalDesignToolsUIUX"
+    },
+    {
+        "ids": "UIUXTools",
+        "labels": "UI/UX Tools",
+        "parents": "DigitalDesignToolsUIUX"
+    },
+    {
+        "ids": "VideoMotion",
+        "labels": "Video<br>&<br>Motion",
+        "parents": "DigitalDesignToolsUIUX"
+    },
+    {
+        "ids": "JupyterNotebook",
+        "labels": "Jupyter Notebook",
+        "parents": "NoteBooks"
+    },
+    {
+        "ids": "GoogleColab",
+        "labels": "Google Colab",
+        "parents": "NoteBooks"
+    },
+    {
+        "ids": "RMarkdown",
+        "labels": "R Markdown",
+        "parents": "NoteBooks"
+    },
+    {
+        "ids": "VisualStudioCode",
+        "labels": "Visual Studio Code",
+        "parents": "IDEs"
+    },
+    {
+        "ids": "RStudio",
+        "labels": "R Studio",
+        "parents": "IDEs"
+    },
+    {
+        "ids": "BITools",
+        "labels": "BI Tools",
+        "parents": "DataVisualizationsBITools"
+    },
+    {
+        "ids": "PythonVisualizationLibraries",
+        "labels": "Python<br>Visualization<br>Libraries",
+        "parents": "DataVisualizationsBITools"
+    },
+    {
+        "ids": "JSVisualizationLibraries",
+        "labels": "JS Visualization<br>Libraries",
+        "parents": "DataVisualizationsBITools"
+    },
+    {
+        "ids": "Windows",
+        "labels": "Windows",
+        "parents": "OperatingSystems"
+    },
+    {
+        "ids": "MacOS",
+        "labels": "MacOS",
+        "parents": "OperatingSystems"
+    },
+    {
+        "ids": "LinuxUbuntu",
+        "labels": "Linux (Ubuntu)",
+        "parents": "OperatingSystems"
+    },
+    {
+        "ids": "BackendFrameworks",
+        "labels": "Back-end<br>Frameworks",
+        "parents": "BackendWebDevelopmentServers"
+    },
+    {
+        "ids": "GISServers",
+        "labels": "GIS Servers",
+        "parents": "BackendWebDevelopmentServers"
+    },
+    {
+        "ids": "OGCServices",
+        "labels": "OGC Services",
+        "parents": "BackendWebDevelopmentServers"
+    },
+    {
+        "ids": "CloudServicesAWS",
+        "labels": "Cloud Services<br>(AWS)",
+        "parents": "CloudServicesDevOpsTools"
+    },
+    {
+        "ids": "Containerization",
+        "labels": "Containerization",
+        "parents": "CloudServicesDevOpsTools"
+    },
+    {
+        "ids": "VersionControlCICD",
+        "labels": "Version Control<br>&<br>CI/CD",
+        "parents": "CloudServicesDevOpsTools"
+    },
+    {
+        "ids": "DesktopGISSoftware",
+        "labels": "Desktop GIS<br>Software",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "OnlineGISTools",
+        "labels": "Online GIS<br>Tools",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "FieldDataCollectionTools",
+        "labels": "Field Data<br>Collection Tools",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "PythonGeospatialLibraries",
+        "labels": "Python<br>Geospatial Libraries",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "JavaScriptGeospatialLibraries",
+        "labels": "JavaScript<br>Geospatial Libraries",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "REnvironment",
+        "labels": "R Environment",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "MachineLearning",
+        "labels": "Machine Learning",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "ETLTools",
+        "labels": "ETL Tools",
+        "parents": "ETLBigData"
+    },
+    {
+        "ids": "BigDataPlatforms",
+        "labels": "Big Data<br>Platforms",
+        "parents": "ETLBigData"
+    },
+    {
+        "ids": "Reactjs",
+        "labels": "React.js",
+        "parents": "FrontEndFrameworks"
+    },
+    {
+        "ids": "Vuejs",
+        "labels": "Vue.js",
+        "parents": "FrontEndFrameworks"
+    },
+    {
+        "ids": "Bootstrap",
+        "labels": "Bootstrap",
+        "parents": "CSSFrameworks"
+    },
+    {
+        "ids": "Vuetify",
+        "labels": "Vuetify",
+        "parents": "CSSFrameworks"
+    },
+    {
+        "ids": "TailwindCSS",
+        "labels": "Tailwind CSS",
+        "parents": "CSSFrameworks"
+    },
+    {
+        "ids": "Leafletjs",
+        "labels": "Leaflet.js",
+        "parents": "WebMappingLibraries"
+    },
+    {
+        "ids": "OpenLayers",
+        "labels": "OpenLayers",
+        "parents": "WebMappingLibraries"
+    },
+    {
+        "ids": "MapLibreGLJS",
+        "labels": "MapLibre GL JS",
+        "parents": "WebMappingLibraries"
+    },
+    {
+        "ids": "ArcGISJavaScriptSDK",
+        "labels": "ArcGIS<br>JavaScript SDK",
+        "parents": "WebMappingLibraries"
+    },
+    {
+        "ids": "HTML4",
+        "labels": "HTML5",
+        "parents": "CoreWebTechnologies"
+    },
+    {
+        "ids": "CSS2",
+        "labels": "CSS3",
+        "parents": "CoreWebTechnologies"
+    },
+    {
+        "ids": "JavaScriptES5ES6",
+        "labels": "JavaScript (ES5/ES6+)",
+        "parents": "CoreWebTechnologies"
+    },
+    {
+        "ids": "PostgreSQLPostGIS",
+        "labels": "PostgreSQL/<br>PostGIS",
+        "parents": "RelationalDatabases"
+    },
+    {
+        "ids": "MySQL",
+        "labels": "MySQL",
+        "parents": "RelationalDatabases"
+    },
+    {
+        "ids": "MongoDB",
+        "labels": "MongoDB",
+        "parents": "NoSQLDatabases"
+    },
+    {
+        "ids": "AdobePhotoshop",
+        "labels": "Adobe Photoshop",
+        "parents": "GraphicsImages"
+    },
+    {
+        "ids": "AdobeIllustrator",
+        "labels": "Adobe Illustrator",
+        "parents": "GraphicsImages"
+    },
+    {
+        "ids": "Figma",
+        "labels": "Figma",
+        "parents": "UIUXTools"
+    },
+    {
+        "ids": "AdobeAfterEffects",
+        "labels": "Adobe After Effects",
+        "parents": "VideoMotion"
+    },
+    {
+        "ids": "AdobePremierePro",
+        "labels": "Adobe Premiere Pro",
+        "parents": "VideoMotion"
+    },
+    {
+        "ids": "Tableau",
+        "labels": "Tableau",
+        "parents": "BITools"
+    },
+    {
+        "ids": "MicrosoftExcelPivotTables",
+        "labels": "Microsoft Excel<br>(Pivot Tables)",
+        "parents": "BITools"
+    },
+    {
+        "ids": "Matplotlib",
+        "labels": "Matplotlib",
+        "parents": "PythonVisualizationLibraries"
+    },
+    {
+        "ids": "Seaborn",
+        "labels": "Seaborn",
+        "parents": "PythonVisualizationLibraries"
+    },
+    {
+        "ids": "Plotly",
+        "labels": "Plotly",
+        "parents": "PythonVisualizationLibraries"
+    },
+    {
+        "ids": "Dash",
+        "labels": "Dash",
+        "parents": "PythonVisualizationLibraries"
+    },
+    {
+        "ids": "Folium",
+        "labels": "Folium",
+        "parents": "PythonVisualizationLibraries"
+    },
+    {
+        "ids": "D3js",
+        "labels": "D3.js",
+        "parents": "JSVisualizationLibraries"
+    },
+    {
+        "ids": "Chartjs",
+        "labels": "Chart.js",
+        "parents": "JSVisualizationLibraries"
+    },
+    {
+        "ids": "Plotlyjs",
+        "labels": "Plotly.js",
+        "parents": "JSVisualizationLibraries"
+    },
+    {
+        "ids": "Recharts",
+        "labels": "Recharts",
+        "parents": "JSVisualizationLibraries"
+    },
+    {
+        "ids": "Highcharts",
+        "labels": "Highcharts",
+        "parents": "JSVisualizationLibraries"
+    },
+    {
+        "ids": "NodejsExpressjs",
+        "labels": "Node.js/<br>Express.js",
+        "parents": "BackendFrameworks"
+    },
+    {
+        "ids": "FastAPI",
+        "labels": "FastAPI",
+        "parents": "BackendFrameworks"
+    },
+    {
+        "ids": "GeoServer",
+        "labels": "GeoServer",
+        "parents": "GISServers"
+    },
+    {
+        "ids": "WMS",
+        "labels": "WMS",
+        "parents": "OGCServices"
+    },
+    {
+        "ids": "WFS",
+        "labels": "WFS",
+        "parents": "OGCServices"
+    },
+    {
+        "ids": "AWSS3",
+        "labels": "AWS S3",
+        "parents": "CloudServicesAWS"
+    },
+    {
+        "ids": "AWSLambda",
+        "labels": "AWS Lambda",
+        "parents": "CloudServicesAWS"
+    },
+    {
+        "ids": "AWSEC2",
+        "labels": "AWS EC2",
+        "parents": "CloudServicesAWS"
+    },
+    {
+        "ids": "AmazonCloudFront",
+        "labels": "Amazon<br>CloudFront",
+        "parents": "CloudServicesAWS"
+    },
+    {
+        "ids": "Docker",
+        "labels": "Docker",
+        "parents": "Containerization"
+    },
+    {
+        "ids": "Git",
+        "labels": "Git",
+        "parents": "VersionControlCICD"
+    },
+    {
+        "ids": "GitHub",
+        "labels": "GitHub",
+        "parents": "VersionControlCICD"
+    },
+    {
+        "ids": "GitHubActions",
+        "labels": "GitHub Actions",
+        "parents": "VersionControlCICD"
+    },
+    {
+        "ids": "ArcGISPro",
+        "labels": "ArcGIS Pro",
+        "parents": "DesktopGISSoftware"
+    },
+    {
+        "ids": "QGIS",
+        "labels": "QGIS",
+        "parents": "DesktopGISSoftware"
+    },
+    {
+        "ids": "ArcGISOnline",
+        "labels": "ArcGIS Online",
+        "parents": "OnlineGISTools"
+    },
+    {
+        "ids": "ArcGISHub",
+        "labels": "ArcGIS Hub",
+        "parents": "OnlineGISTools"
+    },
+    {
+        "ids": "ArcGISStoryMaps",
+        "labels": "ArcGIS<br>StoryMaps",
+        "parents": "OnlineGISTools"
+    },
+    {
+        "ids": "ArcGISDashboards",
+        "labels": "ArcGIS<br>Dashboards",
+        "parents": "OnlineGISTools"
+    },
+    {
+        "ids": "ArcGISWebAppBuilder",
+        "labels": "ArcGIS<br>Web AppBuilder",
+        "parents": "OnlineGISTools"
+    },
+    {
+        "ids": "ArcGISFieldMaps",
+        "labels": "ArcGIS Field Maps",
+        "parents": "FieldDataCollectionTools"
+    },
+    {
+        "ids": "ArcGISSurvey123",
+        "labels": "ArcGIS Survey123",
+        "parents": "FieldDataCollectionTools"
+    },
+    {
+        "ids": "Pandas",
+        "labels": "Pandas",
+        "parents": "PythonGeospatialLibraries"
+    },
+    {
+        "ids": "GeoPandas",
+        "labels": "GeoPandas",
+        "parents": "PythonGeospatialLibraries"
+    },
+    {
+        "ids": "Shapely",
+        "labels": "Shapely",
+        "parents": "PythonGeospatialLibraries"
+    },
+    {
+        "ids": "Rasterio",
+        "labels": "Rasterio",
+        "parents": "PythonGeospatialLibraries"
+    },
+    {
+        "ids": "Turfjs",
+        "labels": "Turf.js",
+        "parents": "JavaScriptGeospatialLibraries"
+    },
+    {
+        "ids": "R",
+        "labels": "R",
+        "parents": "REnvironment"
+    },
+    {
+        "ids": "Scikitlearn",
+        "labels": "Scikit-learn",
+        "parents": "MachineLearning"
+    },
+    {
+        "ids": "FME",
+        "labels": "FME",
+        "parents": "ETLTools"
+    },
+    {
+        "ids": "PySpark",
+        "labels": "PySpark",
+        "parents": "BigDataPlatforms"
+    }
+]

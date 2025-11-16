@@ -1,0 +1,119 @@
+[
+    {
+        "company_name": "Geomundus 2023",
+        "designation": "Front-end Web Developer",
+        "period1": 2023,
+        "country_code": "DE",
+        "short_description": "Contributed to the development of the website for the GeoMundus Conference 2023, held in Castell\u00f3n, Spain, with a focus on responsive design, UX/UI design, performance optimization, debugging, and effective team collaboration.",
+        "period2": "Apr 2023 - Oct 2023",
+        "duration": "7 mos",
+        "company_link": "https://geomundus.org/2023/",
+        "long_description": "As part of the web team for the GeoMundus Conference 2023, I contributed to the development of the official website by focusing on front-end development tasks. My key responsibilities included:",
+        "responsibility": [
+            "Responsive Web Design & UI/UX: Developed modern, responsive web designs using semantic HTML and CSS, enhancing user experience through intuitive navigation and accessible layouts.",
+            "Front-End Performance Optimization: Improved page load times and efficiency by 60% through resource minimization, image compression, lazy loading, and cross-browser compatibility fixes using Chrome DevTools and Lighthouse.",
+            "Code Quality & Consistency: Maintained clean, standardized code using Stylelint and Prettier within VS Code, ensuring high-quality front-end development.",
+            "Version Control & Agile Collaboration: Managed code and project workflow using Git/GitHub and applied Agile methodologies with Trello to streamline team coordination and task management."
+        ],
+        "technology_used": [
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Visual Studio Code",
+            "Git",
+            "GitHub",
+            "Trello",
+            "Chrome DevTools",
+            "Lighthouse",
+            "Adobe Illustrator",
+            "Adobe Photoshop"
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/geomundus_logo.jpg"
+    },
+    {
+        "company_name": "Geological Survey & Mines Bureau, Colombo, Sri Lanka.",
+        "designation": "GIS Analyst / Mining Engineer",
+        "period1": "2018-2022",
+        "country_code": "LK",
+        "short_description": "Conducted geospatial analysis, automated ETL workflows, and geodatabase management using SQL, GIS, and remote sensing tools. Designed interactive maps, performed risk assessments, and automated data processes to support mining and environmental projects while ensuring regulatory compliance.",
+        "period2": "Jun 2018 - Sep 2022",
+        "duration": "4 yrs 3 mos",
+        "company_link": "https://www.gsmb.gov.lk/index.php?lang=en",
+        "long_description": "",
+        "responsibility": [
+            "Automated end-to-end workflows for file and application movement, maintained the mining site geodatabase using PostgreSQL, PostGIS, with spatial querying and created dashboards, improved efficiency by 90%.",
+            "Collected geospatial data using UAVs, GPS surveys, ArcGIS field tools, and Google Earth for 250+ mining sites, processed datasets through ETL pipelines into geodatabases.",
+            "Automated conversion of geospatial data to KML, KMZ, JSON, GeoJSON, Shapefile, and CSV formats, filled null fields in databases, improving data accuracy and reducing manual processing time by 70%.",
+            "Integrated remote sensing data with GIS workflows to monitor land-use changes and detect illegal mining activities.",
+            "Conducted spatial analyses, hot spot analysis, kernel density estimation using ArcGIS, QGIS to develop maps and dashboards to identify mining hotspots, determine optimal exploration areas, and support risk assessment."
+        ],
+        "technology_used": [
+            "ArcGIS Products",
+            "QGIS",
+            "PostgreSQL",
+            "PostGIS",
+            "Python",
+            "Microsoft Excel",
+            "Excel Pivot Tables",
+            "UAV",
+            "GPS",
+            "Google Earth Pro"
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmb_logo.jpg"
+    },
+    {
+        "company_name": "GSMB Technical Services (PVT) LTD., Colombo, Sri Lanka.",
+        "designation": "GIS Analyst",
+        "period1": "2017-2018",
+        "country_code": "LK",
+        "short_description": "Led GIS and spatial analysis for the Southern Expressway Extension Project (ESEP3), building  geodatabases, automating workflows with Python, and integrating drone/GPS data to support mapping, reporting, and project decisions.",
+        "period2": "Oct 2017 - Jun 2018",
+        "duration": "9 mos",
+        "company_link": "https://www.gsmbts.gov.lk/",
+        "long_description": "Worked as a GIS Analyst on the Main Highway construction project, specifically focusing on Southern Expressway Extension (ESEP3) in Hambantota, where significant blasting operations were conducted to remove large rock obstacles. My key responsibilities included:",
+        "responsibility": [
+            "Developed large spatial databases with highway chainages, nearby structures, construction, and land-use data using PostgreSQL/PostGIS, performing spatial queries, visualizations to support data-driven decision-making.",
+            "Conducted spatial analyses on large-scale EO datasets with ArcMap, QGIS for land use classification, buffering, utility and network mapping.",
+            "Managed projects using MS Project to track progress and ensure timely completion.",
+            "Collaborated with engineers and project managers to define geospatial project requirements and ensure data accuracy, timely delivery of data and reports.",
+            "Automated geoprocessing workflows using Python and SQL scripts, improving efficiency in data cleaning, feature extraction, and report generation."
+        ],
+        "technology_used": [
+            "ArcMap",
+            "QGIS",
+            "PostgreSQL",
+            "PostGIS",
+            "AutoCAD",
+            "Python",
+            "Land Surveying",
+            "UAV",
+            "Microsoft Excel",
+            "Google Earth Pro",
+            "MS Project"
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/gsmbts_logo.jpg"
+    },
+    {
+        "company_name": "ELS Group of Companies, Colombo, Sri Lanka.",
+        "designation": "Geotechnical Engineer",
+        "period1": "2016-2017",
+        "country_code": "LK",
+        "short_description": "Created site layouts with AutoCAD, managed projects with MS Project, and represented the organization in bid meetings and discussions with stakeholders.",
+        "period2": "Jun 2016 - Jun 2017",
+        "duration": "1 yr 1 mo",
+        "company_link": "https://elslanka.com/",
+        "long_description": "",
+        "responsibility": [
+            "Created site layouts and cross-sectional drawings using AutoCAD.",
+            "Managed projects with MS Project to develop schedules, tracking progress, allocate resources and ensuring timely completion through effective teamwork.",
+            "Represented the organization in high-level bid meetings, as well as in discussions with government agencies, private companies, and international stakeholders."
+        ],
+        "technology_used": [
+            "AutoCAD",
+            "MS Project",
+            "Microsoft Excel",
+            "Land Surveying"
+        ],
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/company_logos/els_logo.jpg"
+    }
+]

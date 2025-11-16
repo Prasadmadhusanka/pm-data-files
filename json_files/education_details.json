@@ -1,0 +1,93 @@
+[
+    {
+        "university_name": "University of M\u00fcnster",
+        "university_link": "https://www.uni-muenster.de/en/",
+        "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
+        "period": "2023-2024",
+        "country_code": "DE",
+        "short_description": "Erasmus Mundus Joint Master\u2019s Degree specialized in geoinformatics and geospatial data science, with a focus on data visualization and developing spatial web applications using modern web technologies.",
+        "department_name": "Institute for Geoinformatics",
+        "institue_link": "https://www.uni-muenster.de/Geoinformatics/en/index.html",
+        "long_description": "As part of the Erasmus Mundus Joint Master\u2019s Degree program specializing in Geoinformatics and Geospatial Data Science, I completed my second and final semesters, including the Master\u2019s thesis, at the Institute for Geoinformatics. During this period, I earned 60 out of the total 90 ECTS credits required for the program. My studies focused on advanced topics such as geospatial data visualization and the development of Web GIS applications using modern web technologies. The medium of instruction was English, and the curriculum emphasized both theoretical foundations and practical skills in geospatial technologies and data-driven solutions.",
+        "key_modules": [
+            "Master Thesis in Linked Data Visualization",
+            "Core Topics in Geographic Information Science",
+            "Spatial Data Science with R",
+            "Machine Learning for Visual Spatio-Temporal Data",
+            "Applied Geoinformatics for environmental assessment"
+        ],
+        "grade1": "Overall Grade - B (ECTS grading scale)",
+        "grade2": "Local Grade - 1.7 (B+)",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ifgi_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
+    },
+    {
+        "university_name": "Universitat Jaume I",
+        "university_link": "https://www.uji.es/",
+        "degree": "Master of Science in Geospatial Technologies (Erasmus Mundus)",
+        "period": "2022-2023",
+        "country_code": "ES",
+        "short_description": "Erasmus Mundus Joint Master Degree with a focus on geoinformatics, geospatial data science, data visualization, and building spatial web applications using modern web technologies.",
+        "department_name": "School of Technology and Experimental Sciences",
+        "institue_link": "https://www.uji.es/estudis/base/2025/masters/geoespacial-2022/",
+        "long_description": "As part of the Erasmus Mundus Joint Master\u2019s Degree program with a focus on Geoinformatics, Geospatial Data Science, Data Visualization, and the development of spatial web applications using modern web technologies, I completed the first semester at the School of Technology and Experimental Sciences. During this period, I earned 30 out of the total 90 ECTS credits required for the program. The coursework emphasized foundational and applied aspects of spatial data analysis and web-based geospatial solutions. All studies were conducted in English, fostering an international academic environment and multidisciplinary learning experience.",
+        "key_modules": [
+            "Data Science and Machine Learning in Python",
+            "Geographic Information Systems: Desktop to Web",
+            "Spatial Data Services and Application Development",
+            "Data Exploration-Visualization and Management",
+            "Earth Observation and Remote Sensing",
+            "JavaScript for GIS Applications",
+            "GIS Applications and Trends"
+        ],
+        "grade1": "Overall Grade - B (ECTS grading scale)",
+        "grade2": "Local Grade - 8.50-8.99 (notable)",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uji_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1emohC-vy1pLySyQGk017zuFSRSSsKeVg/view?usp=sharing"
+    },
+    {
+        "university_name": "University of Moratuwa",
+        "university_link": "https://uom.lk/",
+        "degree": "Bachelor of Science in Engineering (Honours)",
+        "period": "2011-2016",
+        "country_code": "LK",
+        "short_description": "Gained in-depth expertise in Earth Resources Engineering, Remote Sensing, and GIS, supported by strong foundations in surveying techniques, applied mathematics, and geospatial technologies.",
+        "department_name": "Department of Earth Resources Engineering",
+        "institue_link": "https://uom.lk/ere",
+        "long_description": "I completed a four-year undergraduate degree comprising eight academic semesters, including a one-semester internship, at Sri Lanka\u2019s leading technological university. The program was conducted entirely in English and provided me with in-depth expertise in Earth Resources Engineering, Remote Sensing, and Geographic Information Systems (GIS). My studies were firmly grounded in core areas such as advanced geospatial technologies, surveying techniques and applied mathematics. Over the course of the program, I successfully completed a total of 157 GPA and non-GPA credits, gaining both theoretical knowledge and practical skills essential for geospatial and environmental applications.",
+        "key_modules": [
+            "Principles of Remote Sensing and GIS",
+            "Applied Mathematics",
+            "Programming and Visual Computing",
+            "Surveying and Geospatial Measurement",
+            "Engineering Drawing and CAD Modelling"
+        ],
+        "grade1": "Overall GPA - 3.23",
+        "grade2": "Second Lower Division",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/uom_logo.jpg",
+        "degree_certificate_link": "https://drive.google.com/file/d/1IshrxEEysNuII8J0NGV5iKTaM54svrgV/view?usp=sharing"
+    },
+    {
+        "university_name": "Institute of Java & Software Engineering",
+        "university_link": "https://www.ijse.lk/",
+        "degree": "CMJD - Comprehensive Master Java Developer Program",
+        "period": "2010-2011",
+        "country_code": "LK",
+        "short_description": "Developed practical skills in database management with MySQL, software development, and object-oriented programming using Java.",
+        "department_name": "",
+        "institue_link": "",
+        "long_description": "After completing my school education final examinations and prior to beginning my bachelor\u2019s degree, I enrolled at the Institute of Java and Software Engineering (IJSE), one of Sri Lanka\u2019s leading IT education providers. Conducted in English, the program focused on building a strong foundation in software engineering, with a particular emphasis on object-oriented programming using Java and database management with MySQL. IJSE allowed me to gain essential technical competencies and industry-oriented training early in my academic journey.",
+        "key_modules": [
+            "Object-Oriented Programming with Java",
+            "Database Management Systems and SQL Programming",
+            "JDBC and Backend Integration",
+            "User Interface (UI) Design and Development",
+            "Application Architecture and Reporting",
+            "Algorithms-Data Structures and RegEx"
+        ],
+        "grade1": "",
+        "grade2": "",
+        "logo_link": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/education_logos/ijse_logo.jpg",
+        "degree_certificate_link": ""
+    }
+]

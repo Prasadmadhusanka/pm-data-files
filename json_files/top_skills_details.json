@@ -1,0 +1,42 @@
+[
+    {
+        "skill": "JavaScript (ES5/ ES6+)",
+        "percentage": 95
+    },
+    {
+        "skill": "Python",
+        "percentage": 95
+    },
+    {
+        "skill": "React.js, Vue.js",
+        "percentage": 90
+    },
+    {
+        "skill": "Node.js/Express.js, FastAPI",
+        "percentage": 85
+    },
+    {
+        "skill": "PostgreSQL/PostGIS",
+        "percentage": 95
+    },
+    {
+        "skill": "MongoDB",
+        "percentage": 90
+    },
+    {
+        "skill": "OpenLayers, Leaflet.js",
+        "percentage": 90
+    },
+    {
+        "skill": "ArcGIS Pro, ArcGIS Online",
+        "percentage": 90
+    },
+    {
+        "skill": "Geoserver & OGC Standards (WMS, WFS)",
+        "percentage": 85
+    },
+    {
+        "skill": "FME Desktop",
+        "percentage": 90
+    }
+]

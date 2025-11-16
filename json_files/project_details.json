@@ -1,0 +1,275 @@
+[
+    {
+        "id": 9,
+        "image_id": "img09",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_2.gif",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_5.jpg",
+        "title": "AeroDesk LIVE: Real-Time Airport & Flight Tracker Dashboard Using React.js, OpenLayers, and Aviation Edge API",
+        "technologies": [
+            "React.js",
+            "JavaScript (ES6+)",
+            "OpenLayers",
+            "RestAPI",
+            "Aviation Edge API (Flight Schedules/ Nearby)",
+            "OpenWeather API",
+            "Chart.js",
+            "tz-lookup",
+            "luxon",
+            "React Bootstrap",
+            "React-Select",
+            "CSS3",
+            "git",
+            "GitHub Pages"
+        ],
+        "description": "AeroDesk LIVE is a real-time airport and flight tracker dashboard providing live arrivals, departures, and weather insights for airports worldwide. Built with React.js, OpenLayers, and RESTful APIs, it integrates the Aviation Edge API for flight schedules and nearby airports, along with the OpenWeather API for live weather data. The dashboard includes interactive maps, dynamic charts, and searchable airport data, allowing users to visualize air traffic and explore airport details. Using tz-lookup and Luxon, it offers accurate local time conversions for tracking the longest and shortest flight routes.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://prasadmadhusanka.github.io/AeroDeskLive/",
+        "updatedate": "August 2025",
+        "category": [
+            "WebGIS & Web Development",
+            "GeoAPI & API Integration"
+        ]
+    },
+    {
+        "id": 8,
+        "image_id": "img08",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_3.gif",
+        "imageurl4": "",
+        "imageurl5": "",
+        "title": "Automated End-to-End ETL Workflow for European Air Traffic Data Lake Creation Using FME",
+        "technologies": [
+            "ETL",
+            "Big Data Lake",
+            "FME",
+            "RestAPI",
+            "Aviation Edge API",
+            "Automation",
+            "Windows Task Scheduler",
+            "GeoJson",
+            "Json",
+            "CSV"
+        ],
+        "description": "This project implements a fully automated end-to-end ETL pipeline using FME Desktop to build a real-time EU air traffic data lake. It combines flight arrival and departure data from the Aviation Edge API with detailed geo-spatial airport information from OpenAIP and OurAirports. The workflow extracts, transforms, and loads dynamic flight data into a scalable GeoJSON data lake, enabling timely analytics. Automation through Windows Task Scheduler ensures twice-daily updates, supporting comprehensive analysis of daily, monthly, seasonal, and annual aviation traffic in the EU via a generated dashboard and Python-based data analysis using GeoPandas.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://github.com/Prasadmadhusanka/Automated-End-to-End-ETL-Workflow-for-European-Air-Traffic-Data-Lake-Creation-Using-FME",
+        "updatedate": "August 2025",
+        "category": [
+            "Spatial Analysis & Data Science",
+            "GeoAPI & API Integration"
+        ]
+    },
+    {
+        "id": 6,
+        "image_id": "img06",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_5.jpg",
+        "title": "HealthNearMe: Real-Time Healthcare Search App Using WebGIS, React.js, and Geoapify RESTful API",
+        "technologies": [
+            "React.js",
+            "Leaflet.js",
+            "RestAPI",
+            "Geoapify API (Geocoding/ Places/ Address Autocomplete)",
+            "JavaScript (ES6+)",
+            "Regular Expressions (Regex)",
+            "React Bootstrap",
+            "CSS3",
+            "git",
+            "GitHub Pages"
+        ],
+        "description": "HealthNearMe is a web-based GIS application built with React.js and Leaflet.js that helps users quickly find nearby healthcare services. It integrates live geolocation and place data using the Geoapify API, including Autocomplete and Geocoding features for accurate location search. The app displays detailed place information with Leaflet marker clustering for dense areas. Users can apply multiple filters\u2014such as category, distance, name, facilities, and opening hours\u2014to refine results. The responsive UI is powered by React Bootstrap, ensuring a user-friendly experience across devices.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://prasadmadhusanka.github.io/HealthNearMe/",
+        "updatedate": "July 2025",
+        "category": [
+            "WebGIS & Web Development",
+            "GeoAPI & API Integration"
+        ]
+    },
+    {
+        "id": 1,
+        "image_id": "img01",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_5.jpg",
+        "title": "Responsive Personal Portfolio Website Built with React",
+        "technologies": [
+            "React",
+            "JavaScript (ES6+)",
+            "JSX",
+            "EmailJS",
+            "Plotly.js",
+            "CSS3",
+            "React Bootstrap",
+            "React Slick",
+            "Vite",
+            "git/ GitHub",
+            "Amazon S3",
+            "Amzon Route 53",
+            "AWS Certificate Manager",
+            "Amazon CloudFront"
+        ],
+        "description": "This modern, fully responsive web portfolio showcases my projects, technical skills, blog posts, and professional background. It features smooth animations, interactive elements, and is optimized for high performance on both desktop and mobile devices. With a focus on clean UI/UX, accessibility, and intuitive navigation, it provides a seamless experience. All dynamic content is loaded from external JSON files, allowing frequent updates without the need to modify the React project itself.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://prasadmadushanka.com/",
+        "updatedate": "May 2025",
+        "category": [
+            "WebGIS & Web Development"
+        ]
+    },
+    {
+        "id": 2,
+        "image_id": "img05",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_5.jpg",
+        "title": "VerticalGeoVis - Web Application Prototype (Master Thesis Project)",
+        "technologies": [
+            "Linked data visualization",
+            "Leaflet.js",
+            "D3.js",
+            "JavaScript (ES5 & ES6+)",
+            "HTML5",
+            "CSS3",
+            "RestAPI",
+            "DBpedia Live Sync API",
+            "UBA Air Data API (v3.0.0)",
+            "LimeSurvey",
+            "R",
+            "bootES (R Package)",
+            "GitHub Pages",
+            "ArcGIS Story Maps"
+        ],
+        "description": "This project presents a web application prototype for visualizing the vertical context of the 10 most populated German cities. It integrates vertical attributes into a single interface using data from the DBpedia Live Sync API and UBA Air Data API (v3.0.0). Data is structured in 2D/3D arrays, stored as JSON, and visualized using D3.js Zoomable Circle Packing, Spiral-type Leaflet Markers, and a tabular view. User interactions and task completion times are tracked via LimeSurvey. Results are statistically analyzed using the bootES R package to evaluate the effectiveness of each visualization method for conveying vertical context of geographic locations.",
+        "associatedwith": "University of M\u00fcnster, Germany",
+        "link": "https://storymaps.arcgis.com/stories/6be3fab22260458992f02a38da81d23e",
+        "updatedate": "February 2024",
+        "category": [
+            "WebGIS & Web Development",
+            "GeoAPI & API Integration",
+            "Spatial Analysis & Data Science"
+        ]
+    },
+    {
+        "id": 7,
+        "image_id": "img07",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_5.jpg",
+        "title": "nearPointR-R Package for Real-Time Location based services using Geoapify API with Leaflet",
+        "technologies": [
+            "R",
+            "Leaflet",
+            "RestAPI",
+            "Geoapify API",
+            "ipinfo API",
+            "R Studio",
+            "R Markdown",
+            "Git",
+            "GitHub"
+        ],
+        "description": "nearPointR is an R package offering real-time location-based services using the Geoapify API and Leaflet for interactive maps. It allows users to visualize their current location, explore nearby points of interest like restaurants, pharmacies and etc., download location data in CSV, GeoJSON, or KML formats, and navigate to the closest location via Google Maps. With customizable basemaps and categories, nearPointR provides an efficient, user-friendly tool for spatial analysis, data sharing, and navigation within R environments such as R Studio and R Markdown.",
+        "associatedwith": "University of M\u00fcnster, Germany",
+        "link": "https://github.com/Prasadmadhusanka/nearPointR-An-R-Package-For-Real-Time-Location-Based-Services-using-Geoapify-API-with-Leaflet",
+        "updatedate": "July 2023",
+        "category": [
+            "Spatial Analysis & Data Science",
+            "GeoAPI & API Integration"
+        ]
+    },
+    {
+        "id": 3,
+        "image_id": "img02",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_5.jpg",
+        "title": "BlackJack-2Player (Player vs Computer) written in JavaScript",
+        "technologies": [
+            "JavaScript ES5",
+            "CSS3",
+            "HTML5",
+            "Bootstrap",
+            "Data Structures",
+            "Visual Studio Code",
+            "GitHub Pages"
+        ],
+        "description": "BlackJack-2Player is a browser-based game where the player competes against the computer in classic Blackjack. Developed with HTML5, JavaScript (ES5), CSS3, and Bootstrap 3.3, it features responsive design and smooth animations. Core logic uses arrays, objects, and classes. Built in Visual Studio Code, version-controlled with Git/GitHub, and deployed via GitHub Pages.",
+        "associatedwith": "Universitat Jaume I, Spain",
+        "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
+        "updatedate": "December 2022",
+        "category": [
+            "WebGIS & Web Development"
+        ]
+    },
+    {
+        "id": 4,
+        "image_id": "img03",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_3.gif",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_4.gif",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_5.jpg",
+        "title": "Data-Driven Insights on Natural Gas in the European Economic Area (1991-2020) Using ETL & Data Visualization",
+        "technologies": [
+            "Python",
+            "FME Desktop",
+            "Pandas",
+            "Geopandas",
+            "Matplotlib",
+            "Seaborn",
+            "Juptyer Notebooks",
+            "Google Colab",
+            "Adobe AfterEffects"
+        ],
+        "description": "Built an end-to-end ETL pipeline and static visualizations to analyze natural gas consumption, production, exports, imports, reserves, and trends across EEA countries using FME, Python, and Jupyter. Leveraged Pandas, GeoPandas, Matplotlib, and Seaborn for efficient data processing and insightful geographic and temporal visualizations.",
+        "associatedwith": "Universitat Jaume I, Spain",
+        "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization?tab=readme-ov-file",
+        "updatedate": "December 2022",
+        "category": [
+            "Spatial Analysis & Data Science"
+        ]
+    },
+    {
+        "id": 5,
+        "image_id": "img04",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_4.jpg",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_5.jpg",
+        "title": "Spatial Database Design and Query Optimization using PostgreSQL, PostGIS and ArcGIS Pro",
+        "technologies": [
+            "Entity-Relationship Diagram",
+            "PostgreSQL",
+            "PostGIS",
+            "PgAdmin",
+            "PSQL",
+            "Google Earth Pro",
+            "ArcGIS Pro",
+            "git/GitHub",
+            "ArcGIS Story Maps"
+        ],
+        "description": "Modeled an ERD during the conceptual design stage, incorporating spatial attributes (POINT, LINESTRING, POLYGON). Built a spatial database using PostgreSQL and PostGIS, and utilized ArcGIS Pro for visualizing and assessing the impacts of highway blasting on nearby structures. Integrated spatial and non-spatial data, optimized queries for performance, and visualized results to support safety planning, regulatory compliance, and data-driven decision-making.",
+        "associatedwith": "Universitat Jaume I, Spain",
+        "link": "https://storymaps.arcgis.com/stories/25ae7f0de71c492f9a718b5a5c65ee65",
+        "updatedate": "November 2022",
+        "category": [
+            "Spatial Analysis & Data Science"
+        ]
+    }
+]
