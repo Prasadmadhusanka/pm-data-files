@@ -8,12 +8,24 @@
         "percentage": 95
     },
     {
-        "skill": "React.js, Vue.js",
+        "skill": "React.js",
         "percentage": 90
     },
     {
-        "skill": "Node.js/Express.js, FastAPI",
+        "skill": "Vue.js",
+        "percentage": 90
+    },
+    {
+        "skill": "Node.js",
         "percentage": 85
+    },
+    {
+        "skill": "FastAPI",
+        "percentage": 85
+    },
+    {
+        "skill": "Bootstrap",
+        "percentage": 90
     },
     {
         "skill": "PostgreSQL/PostGIS",
@@ -24,15 +36,19 @@
         "percentage": 90
     },
     {
-        "skill": "OpenLayers, Leaflet.js",
-        "percentage": 90
+        "skill": "Leaflet.js",
+        "percentage": 95
+    },
+    {
+        "skill": "OpenLayers",
+        "percentage": 95
     },
     {
         "skill": "ArcGIS Pro, ArcGIS Online",
-        "percentage": 90
+        "percentage": 95
     },
     {
-        "skill": "Geoserver & OGC Standards (WMS, WFS)",
+        "skill": "Geoserver",
         "percentage": 85
     },
     {
