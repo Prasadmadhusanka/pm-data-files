@@ -2,85 +2,85 @@
     {
         "skill": "JavaScript (ES5/ ES6+)",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/JavaScriptEs5ES6.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/JavaScriptEs5ES6.png",
         "icon_color": "#eaca31"
     },
     {
         "skill": "Python",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Python.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Python.png",
         "icon_color": "#ffd343"
     },
     {
         "skill": "React.js",
         "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Reactjs.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Reactjs.png",
         "icon_color": "#61dafb"
     },
     {
         "skill": "Vue.js",
         "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Vuejs.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Vuejs.png",
         "icon_color": "#41b883"
     },
     {
         "skill": "Node.js",
         "percentage": 85,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Nodejs.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Nodejs.png",
         "icon_color": "#83cd29"
     },
     {
         "skill": "FastAPI",
         "percentage": 85,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/FastAPI.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/FastAPI.png",
         "icon_color": "#049689"
     },
     {
         "skill": "Bootstrap",
         "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Bootstrap.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Bootstrap.png",
         "icon_color": "#8112fa"
     },
     {
         "skill": "PostgreSQL/PostGIS",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/PostgreSQL.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/PostgreSQL.png",
         "icon_color": "#336791"
     },
     {
         "skill": "MongoDB",
         "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/MongoDB.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/MongoDB.png",
         "icon_color": "#01ec64"
     },
     {
         "skill": "Leaflet.js",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/Leafletjs.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Leafletjs.png",
         "icon_color": "#b1de5b"
     },
     {
         "skill": "OpenLayers",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/OpenLayers.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/OpenLayers.png",
         "icon_color": "#35bcce"
     },
     {
         "skill": "ArcGIS Pro, ArcGIS Online",
         "percentage": 95,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/ArcGISPro.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/ArcGISPro.png",
         "icon_color": "#0a7ae6"
     },
     {
         "skill": "Geoserver",
         "percentage": 85,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/GeoServer.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/GeoServer.png",
         "icon_color": "#a4d165"
     },
     {
         "skill": "FME Desktop",
         "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logo/FMEDesktop.png",
+        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/FMEDesktop.png",
         "icon_color": "#000000"
     }
 ]
