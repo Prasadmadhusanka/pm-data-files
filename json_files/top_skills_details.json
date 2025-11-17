@@ -36,22 +36,10 @@
         "icon_color": "#049689"
     },
     {
-        "skill": "Bootstrap",
-        "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/Bootstrap.png",
-        "icon_color": "#8112fa"
-    },
-    {
         "skill": "PostgreSQL/PostGIS",
         "percentage": 95,
         "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/PostgreSQL.png",
         "icon_color": "#336791"
-    },
-    {
-        "skill": "MongoDB",
-        "percentage": 90,
-        "icon_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/top_skills_logos/MongoDB.png",
-        "icon_color": "#01ec64"
     },
     {
         "skill": "Leaflet.js",
