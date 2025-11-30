@@ -1,6 +1,35 @@
 [
     {
-        "id": 9,
+        "id": "",
+        "image_id": "img10",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img10_1.jpg",
+        "imageurl2": "",
+        "imageurl3": "",
+        "imageurl4": "",
+        "imageurl5": "",
+        "title": "CI/CD Enabled End-to-End Pipeline for Germany Weather Data Lake in NeonDB Using GitHub Actions and Python",
+        "technologies": [
+            "CI/CD Pipeline",
+            "GitHub Actions",
+            "Python",
+            "OpenWeatherMap API",
+            "Entity-Relationship Diagram",
+            "PostgreSQL",
+            "PostGIS",
+            "PgAdmin",
+            "Neon Cloud  Database"
+        ],
+        "description": "This project is an automated weather data collection and storage pipeline for over 100 cities across Germany. It fetches live weather data from the OpenWeatherMap API every 4 hours and stores it in a cloud-hosted PostgreSQL database (Neon) with PostGIS support for geospatial data. The system is fully automated using Python for data processing and GitHub Actions for scheduling. The pipeline stores historical weather data, which can be leveraged for dashboards, analytics, or forecasting projects.",
+        "associatedwith": "Independent / Personal Project",
+        "link": "https://github.com/Prasadmadhusanka/CI-CD-End-to-End-Pipeline-for-German-Weather-Data-Lake-in-NeonDB-Using-GitHub-Actions-and-Python",
+        "updatedate": "November 2025",
+        "category": [
+            "GeoAPI & API Integration",
+            "Spatial Analysis & Data Science"
+        ]
+    },
+    {
+        "id": 9.0,
         "image_id": "img09",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_2.gif",
@@ -34,7 +63,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 8.0,
         "image_id": "img08",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_2.jpg",
@@ -64,7 +93,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 6.0,
         "image_id": "img06",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_2.jpg",
@@ -94,7 +123,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 1.0,
         "image_id": "img01",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_2.jpg",
@@ -127,7 +156,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 2.0,
         "image_id": "img05",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_2.jpg",
@@ -162,7 +191,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 7.0,
         "image_id": "img07",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img07_2.jpg",
@@ -191,7 +220,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 3.0,
         "image_id": "img02",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img02_2.jpg",
@@ -217,7 +246,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 4.0,
         "image_id": "img03",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img03_2.jpg",
@@ -245,7 +274,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 5.0,
         "image_id": "img04",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img04_2.jpg",
