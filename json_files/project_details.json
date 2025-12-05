@@ -142,7 +142,8 @@
             "React Slick",
             "Vite",
             "git/ GitHub",
-            "Amazon S3",
+            "GitHub Actions",
+            "CI/CD Amazon S3",
             "Amzon Route 53",
             "AWS Certificate Manager",
             "Amazon CloudFront"
