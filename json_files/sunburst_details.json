@@ -100,6 +100,11 @@
         "parents": "FrontendWebDevelopmentWebMapping"
     },
     {
+        "ids": "FrontendTestingLibraries",
+        "labels": "Frontend<br>Testing<br>Libraries",
+        "parents": "FrontendWebDevelopmentWebMapping"
+    },
+    {
         "ids": "CoreWebTechnologies",
         "labels": "Core Web<br>Technologies",
         "parents": "FrontendWebDevelopmentWebMapping"
@@ -107,6 +112,11 @@
     {
         "ids": "RelationalDatabases",
         "labels": "Relational<br>Databases",
+        "parents": "SpatialDatabases"
+    },
+    {
+        "ids": "CloudDatabases",
+        "labels": "Cloud<br>Databases",
         "parents": "SpatialDatabases"
     },
     {
@@ -240,8 +250,18 @@
         "parents": "OperatingSystems"
     },
     {
-        "ids": "BackendFrameworks",
-        "labels": "Back-end<br>Frameworks",
+        "ids": "RestAPIs",
+        "labels": "Rest APIs",
+        "parents": "BackendWebDevelopmentServers"
+    },
+    {
+        "ids": "DatabaseORMDataAccess",
+        "labels": "Database ORM/<br>Data Access",
+        "parents": "BackendWebDevelopmentServers"
+    },
+    {
+        "ids": "TestingQualityAssurance",
+        "labels": "Testing/<br>Quality Assurance",
         "parents": "BackendWebDevelopmentServers"
     },
     {
@@ -350,17 +370,22 @@
         "parents": "WebMappingLibraries"
     },
     {
-        "ids": "MapLibreGLJS",
-        "labels": "MapLibre GL JS",
-        "parents": "WebMappingLibraries"
-    },
-    {
         "ids": "ArcGISJavaScriptSDK",
         "labels": "ArcGIS<br>JavaScript SDK",
         "parents": "WebMappingLibraries"
     },
     {
-        "ids": "HTML4",
+        "ids": "Jest",
+        "labels": "Jest",
+        "parents": "FrontendTestingLibraries"
+    },
+    {
+        "ids": "ReactTestingLibrary",
+        "labels": "React Testing<br>Library",
+        "parents": "FrontendTestingLibraries"
+    },
+    {
+        "ids": "HTML5",
         "labels": "HTML5",
         "parents": "CoreWebTechnologies"
     },
@@ -385,8 +410,18 @@
         "parents": "RelationalDatabases"
     },
     {
-        "ids": "MongoDB",
-        "labels": "MongoDB",
+        "ids": "MongoDBAtlas1",
+        "labels": "MongoDB Atlas",
+        "parents": "CloudDatabases"
+    },
+    {
+        "ids": "NeonPostgreSQL",
+        "labels": "Neon<br>(PostgreSQL)",
+        "parents": "CloudDatabases"
+    },
+    {
+        "ids": "MongoDBAtlas",
+        "labels": "MongoDB Atlas",
         "parents": "NoSQLDatabases"
     },
     {
@@ -477,12 +512,47 @@
     {
         "ids": "NodejsExpressjs",
         "labels": "Node.js/<br>Express.js",
-        "parents": "BackendFrameworks"
+        "parents": "RestAPIs"
     },
     {
         "ids": "FastAPI",
         "labels": "FastAPI",
-        "parents": "BackendFrameworks"
+        "parents": "RestAPIs"
+    },
+    {
+        "ids": "SQLAlchemy",
+        "labels": "SQLAlchemy ",
+        "parents": "DatabaseORMDataAccess"
+    },
+    {
+        "ids": "GeoAlchemy2",
+        "labels": "GeoAlchemy2",
+        "parents": "DatabaseORMDataAccess"
+    },
+    {
+        "ids": "psycopg2psycopg",
+        "labels": "psycopg2/<br>psycopg",
+        "parents": "DatabaseORMDataAccess"
+    },
+    {
+        "ids": "Jest1",
+        "labels": "Jest",
+        "parents": "TestingQualityAssurance"
+    },
+    {
+        "ids": "pytest",
+        "labels": "pytest",
+        "parents": "TestingQualityAssurance"
+    },
+    {
+        "ids": "unittest",
+        "labels": "unittest",
+        "parents": "TestingQualityAssurance"
+    },
+    {
+        "ids": "Postman",
+        "labels": "Postman",
+        "parents": "TestingQualityAssurance"
     },
     {
         "ids": "GeoServer",
@@ -497,6 +567,11 @@
     {
         "ids": "WFS",
         "labels": "WFS",
+        "parents": "OGCServices"
+    },
+    {
+        "ids": "WCS",
+        "labels": "WCS",
         "parents": "OGCServices"
     },
     {
