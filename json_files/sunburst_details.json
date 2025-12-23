@@ -400,6 +400,11 @@
         "parents": "CoreWebTechnologies"
     },
     {
+        "ids": "TypeScript",
+        "labels": "TypeScript",
+        "parents": "CoreWebTechnologies"
+    },
+    {
         "ids": "PostgreSQLPostGIS",
         "labels": "PostgreSQL/<br>PostGIS",
         "parents": "RelationalDatabases"
