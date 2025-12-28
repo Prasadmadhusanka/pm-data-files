@@ -19,13 +19,13 @@
             "JSON",
             "GeoJSON"
         ],
-        "description": "This project implements an automated weather data collection and storage pipeline for over 100 cities across Germany. It retrieves live weather data from the OpenWeatherMap API every four hours and stores it in a cloud-hosted MongoDB Atlas database with full GeoJSON support for geospatial data. All geographic information for the 100 cities and 16 federal states is stored as GeoJSON documents within the database. The system is fully automated using Python for data ingestion and processing, with GitHub Actions handling scheduled execution. In addition to real-time data, the pipeline maintains historical weather records, enabling use cases such as dashboards, REST or GraphQL API development, analytics, and weather forecasting projects.",
+        "description": "This project implements an automated weather data collection and storage pipeline for over 100 cities across Germany. It retrieves live weather data from the OpenWeatherMap REST API every hour and stores it in a cloud-hosted MongoDB Atlas database with full GeoJSON support for geospatial data. All geographic information for the 100 cities and 16 federal states is stored as GeoJSON documents within the database. The system is fully automated using Python for data ingestion and processing, with GitHub Actions handling scheduled execution. In addition to real-time data, the pipeline maintains historical weather records, enabling use cases such as dashboards, REST or GraphQL API development, analytics, and weather forecasting projects.",
         "associatedwith": "Independent / Personal Project",
         "link": "https://github.com/Prasadmadhusanka/CI-CD-End-to-End-Pipeline-for-German-Weather-Data-Lake-in-MongoDB-Using-GitHub-Actions-and-Python",
         "updatedate": "November 2025",
         "category": [
-            "GeoAPI & API Integration",
-            "Spatial Analysis & Data Science"
+            "Data Engineering",
+            "Databases"
         ]
     },
     {
@@ -41,8 +41,7 @@
             "React.js",
             "JavaScript (ES6+)",
             "OpenLayers",
-            "RestAPI",
-            "Aviation Edge API (Flight Schedules/ Nearby)",
+            "Aviation Edge REST API (Flight Schedules/ Nearby)",
             "OpenWeatherMap REST API",
             "Chart.js",
             "tz-lookup",
@@ -58,17 +57,17 @@
         "link": "https://prasadmadhusanka.github.io/AeroDeskLive/",
         "updatedate": "August 2025",
         "category": [
-            "WebGIS & Web Development",
-            "GeoAPI & API Integration"
+            "Web Apps",
+            "Geospatial"
         ]
     },
     {
         "order": 9,
         "image_id": "img11",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_1.jpg",
-        "imageurl2": "",
-        "imageurl3": "",
-        "imageurl4": "",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_2.gif",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_3.jpg",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_4.gif",
         "imageurl5": "",
         "title": "CI/CD-Driven End-to-End ETL Pipeline for Germany Air Traffic Data Lake on Neon Cloud Database Using Python and GitHub Actions",
         "technologies": [
@@ -82,13 +81,13 @@
             "PgAdmin",
             "Neon Cloud  Database"
         ],
-        "description": "This project implements an automated air traffic data collection and storage pipeline covering 84 airports across Germany. It retrieves live air traffic data from the Aviation Edge API every six hours and stores it in a cloud-hosted NeonDB (PostgreSQL) with full PostGIS support for geospatial data. All airport geographic information is centrally managed and stored within the database. The system is fully automated, using Python for data ingestion and transformation, with GitHub Actions handling scheduled execution. In addition to real-time ingestion, the pipeline maintains historical air traffic records, enabling use cases such as interactive dashboards, REST or GraphQL API development, and air traffic analytics.",
+        "description": "This project implements an automated air traffic data collection and storage pipeline covering 84 airports across Germany. It retrieves live air traffic data from the Aviation Edge REST API every six hours and stores it in a cloud-hosted NeonDB (PostgreSQL) with full PostGIS support for geospatial data. All airport geographic information is centrally managed and stored within the database. The system is fully automated, using Python for data ingestion and transformation, with GitHub Actions handling scheduled execution. In addition to real-time ingestion, the pipeline maintains historical air traffic records, enabling use cases such as interactive dashboards, REST or GraphQL API development, and air traffic analytics.",
         "associatedwith": "Independent / Personal Project",
         "link": "https://github.com/Prasadmadhusanka/CI-CD-End-to-End-Pipeline-for-German-Air-Traffic-Data-Lake-in-NeonDB-Using-GitHub-Actions-and-Python",
         "updatedate": "August 2025",
         "category": [
-            "GeoAPI & API Integration",
-            "Spatial Analysis & Data Science"
+            "Data Engineering",
+            "Databases"
         ]
     },
     {
@@ -104,7 +103,6 @@
             "ETL",
             "Big Data Lake",
             "FME",
-            "RestAPI",
             "Aviation Edge REST API",
             "Automation",
             "Windows Task Scheduler",
@@ -112,13 +110,12 @@
             "Json",
             "CSV"
         ],
-        "description": "This project implements a fully automated end-to-end ETL pipeline using FME Desktop to build a real-time EU air traffic data lake. It combines flight arrival and departure data from the Aviation Edge API with detailed geo-spatial airport information from OpenAIP and OurAirports. The workflow extracts, transforms, and loads dynamic flight data into a scalable GeoJSON data lake, enabling timely analytics. Automation through Windows Task Scheduler ensures twice-daily updates, supporting comprehensive analysis of daily, monthly, seasonal, and annual aviation traffic in the EU via a generated dashboard and Python-based data analysis using GeoPandas.",
+        "description": "This project implements a fully automated end-to-end ETL pipeline using FME Desktop to build a real-time EU air traffic data lake. It combines flight arrival and departure data from the Aviation Edge REST API with detailed geo-spatial airport information from OpenAIP and OurAirports. The workflow extracts, transforms, and loads dynamic flight data into a scalable GeoJSON data lake, enabling timely analytics. Automation through Windows Task Scheduler ensures twice-daily updates, supporting comprehensive analysis of daily, monthly, seasonal, and annual aviation traffic in the EU via a generated dashboard and Python-based data analysis using GeoPandas.",
         "associatedwith": "Independent / Personal Project",
         "link": "https://github.com/Prasadmadhusanka/Automated-End-to-End-ETL-Workflow-for-European-Air-Traffic-Data-Lake-Creation-Using-FME",
         "updatedate": "August 2025",
         "category": [
-            "Spatial Analysis & Data Science",
-            "GeoAPI & API Integration"
+            "Data Engineering"
         ]
     },
     {
@@ -133,7 +130,6 @@
         "technologies": [
             "React.js",
             "Leaflet.js",
-            "RestAPI",
             "Geoapify REST API (Geocoding/ Places/ Address Autocomplete)",
             "JavaScript (ES6+)",
             "Regular Expressions (Regex)",
@@ -142,13 +138,13 @@
             "git",
             "GitHub Pages"
         ],
-        "description": "HealthNearMe is a web-based GIS application built with React.js and Leaflet.js that helps users quickly find nearby healthcare services. It integrates live geolocation and place data using the Geoapify API, including Autocomplete and Geocoding features for accurate location search. The app displays detailed place information with Leaflet marker clustering for dense areas. Users can apply multiple filters\u2014such as category, distance, name, facilities, and opening hours\u2014to refine results. The responsive UI is powered by React Bootstrap, ensuring a user-friendly experience across devices.",
+        "description": "HealthNearMe is a web-based GIS application built with React.js and Leaflet.js that helps users quickly find nearby healthcare services. It integrates live geolocation and place data using the Geoapify REST API, including Autocomplete and Geocoding features for accurate location search. The app displays detailed place information with Leaflet marker clustering for dense areas. Users can apply multiple filters\u2014such as category, distance, name, facilities, and opening hours\u2014to refine results. The responsive UI is powered by React Bootstrap, ensuring a user-friendly experience across devices.",
         "associatedwith": "Independent / Personal Project",
         "link": "https://prasadmadhusanka.github.io/HealthNearMe/",
         "updatedate": "July 2025",
         "category": [
-            "WebGIS & Web Development",
-            "GeoAPI & API Integration"
+            "Web Apps",
+            "Geospatial"
         ]
     },
     {
@@ -183,7 +179,7 @@
         "link": "https://prasadmadushanka.com/",
         "updatedate": "May 2025",
         "category": [
-            "WebGIS & Web Development"
+            "Web Apps"
         ]
     },
     {
@@ -202,23 +198,22 @@
             "JavaScript (ES5 & ES6+)",
             "HTML5",
             "CSS3",
-            "RestAPI",
             "DBpedia Live Sync API",
-            "UBA Air Data API (v3.0.0)",
+            "UBA Air Data REST API (v3.0.0)",
             "LimeSurvey",
             "R",
             "bootES (R Package)",
             "GitHub Pages",
             "ArcGIS Story Maps"
         ],
-        "description": "This project presents a web application prototype for visualizing the vertical context of the 10 most populated German cities. It integrates vertical attributes into a single interface using data from the DBpedia Live Sync API and UBA Air Data API (v3.0.0). Data is structured in 2D/3D arrays, stored as JSON, and visualized using D3.js Zoomable Circle Packing, Spiral-type Leaflet Markers, and a tabular view. User interactions and task completion times are tracked via LimeSurvey. Results are statistically analyzed using the bootES R package to evaluate the effectiveness of each visualization method for conveying vertical context of geographic locations.",
+        "description": "This project presents a web application prototype for visualizing the vertical context of the 10 most populated German cities. It integrates vertical attributes into a single interface using data from the DBpedia Live Sync API and UBA Air Data REST API (v3.0.0). Data is structured in 2D/3D arrays, stored as JSON, and visualized using D3.js Zoomable Circle Packing, Spiral-type Leaflet Markers, and a tabular view. User interactions and task completion times are tracked via LimeSurvey. Results are statistically analyzed using the bootES R package to evaluate the effectiveness of each visualization method for conveying vertical context of geographic locations.",
         "associatedwith": "University of M\u00fcnster, Germany",
         "link": "https://storymaps.arcgis.com/stories/6be3fab22260458992f02a38da81d23e",
         "updatedate": "February 2024",
         "category": [
-            "WebGIS & Web Development",
-            "GeoAPI & API Integration",
-            "Spatial Analysis & Data Science"
+            "Data Engineering",
+            "Web Apps",
+            "Geospatial"
         ]
     },
     {
@@ -235,19 +230,19 @@
             "Leaflet",
             "RestAPI",
             "Geoapify REST API",
-            "ipinfo API",
+            "ipinfo REST API",
             "R Studio",
             "R Markdown",
             "Git",
             "GitHub"
         ],
-        "description": "nearPointR is an R package offering real-time location-based services using the Geoapify API and Leaflet for interactive maps. It allows users to visualize their current location, explore nearby points of interest like restaurants, pharmacies and etc., download location data in CSV, GeoJSON, or KML formats, and navigate to the closest location via Google Maps. With customizable basemaps and categories, nearPointR provides an efficient, user-friendly tool for spatial analysis, data sharing, and navigation within R environments such as R Studio and R Markdown.",
+        "description": "nearPointR is an R package offering real-time location-based services using the Geoapify REST API and Leaflet for interactive maps. It allows users to visualize their current location, explore nearby points of interest like restaurants, pharmacies and etc., download location data in CSV, GeoJSON, or KML formats, and navigate to the closest location via Google Maps. With customizable basemaps and categories, nearPointR provides an efficient, user-friendly tool for spatial analysis, data sharing, and navigation within R environments such as R Studio and R Markdown.",
         "associatedwith": "University of M\u00fcnster, Germany",
         "link": "https://github.com/Prasadmadhusanka/nearPointR-An-R-Package-For-Real-Time-Location-Based-Services-using-Geoapify-API-with-Leaflet",
         "updatedate": "July 2023",
         "category": [
-            "Spatial Analysis & Data Science",
-            "GeoAPI & API Integration"
+            "Geospatial",
+            "Data Enginnering"
         ]
     },
     {
@@ -273,7 +268,7 @@
         "link": "https://github.com/Prasadmadhusanka/blackjack-two-player-written-in-javascript",
         "updatedate": "December 2022",
         "category": [
-            "WebGIS & Web Development"
+            "Web Apps"
         ]
     },
     {
@@ -301,7 +296,8 @@
         "link": "https://github.com/Prasadmadhusanka/Data-Driven-Insights-on-Natural-Gas-in-the-EEA-area-1991-2020-Using-ETL-Data-Visualization?tab=readme-ov-file",
         "updatedate": "December 2022",
         "category": [
-            "Spatial Analysis & Data Science"
+            "Data Engineering",
+            "Geospatial"
         ]
     },
     {
@@ -329,7 +325,8 @@
         "link": "https://storymaps.arcgis.com/stories/25ae7f0de71c492f9a718b5a5c65ee65",
         "updatedate": "November 2022",
         "category": [
-            "Spatial Analysis & Data Science"
+            "Databases",
+            "Geospatial"
         ]
     }
 ]
