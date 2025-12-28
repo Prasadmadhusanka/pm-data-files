@@ -340,6 +340,11 @@
         "parents": "FrontEndFrameworks"
     },
     {
+        "ids": "NEXTjs",
+        "labels": "NEXT.js",
+        "parents": "FrontEndFrameworks"
+    },
+    {
         "ids": "Vuejs",
         "labels": "Vue.js",
         "parents": "FrontEndFrameworks"
@@ -601,7 +606,12 @@
     },
     {
         "ids": "Docker",
-        "labels": "Docker",
+        "labels": "docker",
+        "parents": "Containerization"
+    },
+    {
+        "ids": "dockerHUB",
+        "labels": "docker HUB",
         "parents": "Containerization"
     },
     {
