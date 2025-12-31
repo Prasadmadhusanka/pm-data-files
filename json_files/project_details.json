@@ -1,6 +1,6 @@
 [
     {
-        "order": 11,
+        "order": 12,
         "image_id": "img10",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img10_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img10_2.gif",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "order": 10,
+        "order": 11,
         "image_id": "img09",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img09_2.gif",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "order": 9,
+        "order": 10,
         "image_id": "img11",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img11_2.gif",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "order": 8,
+        "order": 9,
         "image_id": "img08",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img08_2.jpg",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "order": 7,
+        "order": 8,
         "image_id": "img06",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img06_2.jpg",
@@ -148,7 +148,7 @@
         ]
     },
     {
-        "order": 6,
+        "order": 7,
         "image_id": "img01",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img01_2.jpg",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "order": 5,
+        "order": 6,
         "image_id": "img05",
         "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_1.jpg",
         "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img05_2.jpg",
@@ -213,6 +213,36 @@
         "category": [
             "Data Engineering",
             "Web Apps",
+            "Geospatial"
+        ]
+    },
+    {
+        "order": 5,
+        "image_id": "img12",
+        "imageurl1": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img12_1.jpg",
+        "imageurl2": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img12_2.jpg",
+        "imageurl3": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img12_3.gif",
+        "imageurl4": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img12_4.gif",
+        "imageurl5": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/Project_tiles/img12_5.gif",
+        "title": "GIS and Remote Sensing Approach to Urban Growth Monitoring in Cologne, Germany",
+        "technologies": [
+            "Land use/Land cover",
+            "Change Detection",
+            "ERDAS Imagine",
+            "Supervised Classification",
+            "Accuracy Assessment",
+            "Kappa Statistics",
+            "NDVI",
+            "NDWI",
+            "Arc GIS Pro",
+            "ArcGIS Story Maps"
+        ],
+        "description": "This project analyzes land use and land cover (LULC) changes in the Cologne city region, Germany, from 2000 to 2022 using integrated remote sensing and GIS techniques. Multi-temporal Landsat 7 and Sentinel-2 satellite imagery are used to examine spatial and temporal land cover variations. Supervised classification in ERDAS Imagine generates LULC maps, while ArcGIS Pro supports spatial analysis and change detection. The study assesses changes in urban areas, agricultural land, forests, and water bodies. NDVI and NDWI indices are applied to evaluate vegetation health and water dynamics. Classification accuracy is validated using Kappa statistics, supporting informed urban planning and sustainable land management decisions.",
+        "associatedwith": "University of M\u00fcnster, Germany",
+        "link": "https://arcg.is/0m5qna2",
+        "updatedate": "August 2023",
+        "category": [
+            "Remote Sensing",
             "Geospatial"
         ]
     },
