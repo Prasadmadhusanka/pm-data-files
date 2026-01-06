@@ -234,7 +234,7 @@
             "Kappa Statistics",
             "NDVI",
             "NDWI",
-            "Arc GIS Pro",
+            "ArcGIS Pro",
             "ArcGIS Story Maps"
         ],
         "description": "This project analyzes land use and land cover (LULC) changes in the Cologne city region, Germany, from 2000 to 2022 using integrated remote sensing and GIS techniques. Multi-temporal Landsat 7 and Sentinel-2 satellite imagery are used to examine spatial and temporal land cover variations. Supervised classification in ERDAS Imagine generates LULC maps, while ArcGIS Pro supports spatial analysis and change detection. The study assesses changes in urban areas, agricultural land, forests, and water bodies. NDVI and NDWI indices are applied to evaluate vegetation health and water dynamics. Classification accuracy is validated using Kappa statistics, supporting informed urban planning and sustainable land management decisions.",
