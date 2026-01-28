@@ -3,7 +3,7 @@
         "id": 1,
         "title": "My Flights Dashboard",
         "video_link": "https://personalportfoliodata.s3.eu-central-1.amazonaws.com/Flight_Video.mp4",
-        "page_link": "/myflightdashboard",
+        "page_link": "/flightydashboard",
         "description": "An interactive dashboard tracking my flight experiences and air travel history, with real-time statistics and beautiful visualizations of my journeys around the globe.",
         "last_update": "September 25, 2025"
     },
