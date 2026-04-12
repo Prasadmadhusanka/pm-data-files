@@ -16,6 +16,7 @@
             "Version Control & Agile Collaboration: Managed code and project workflow using Git/GitHub and applied Agile methodologies with Trello to streamline team coordination and task management."
         ],
         "technology_used": [
+            "React.js",
             "JavaScript",
             "HTML",
             "CSS",
@@ -42,7 +43,7 @@
         "long_description": "",
         "responsibility": [
             "Automated end-to-end workflows for file and application movement, maintained the mining site geodatabase using PostgreSQL, PostGIS, with spatial querying and created dashboards, improved efficiency by 90%.",
-            "Collected geospatial data using UAVs, GPS surveys, ArcGIS field tools, and Google Earth for 250+ mining sites, processed datasets through ETL pipelines into geodatabases.",
+            "Collected geospatial data using UAVs, GPS surveys, ArcGIS field tools, and Google Earth Engine (GEE) for 250+ mining sites, processed datasets through ETL pipelines into geodatabases.",
             "Automated conversion of geospatial data to KML, KMZ, JSON, GeoJSON, Shapefile, and CSV formats, filled null fields in databases, improving data accuracy and reducing manual processing time by 70%.",
             "Integrated remote sensing data with GIS workflows to monitor land-use changes and detect illegal mining activities.",
             "Conducted spatial analyses, hot spot analysis, kernel density estimation using ArcGIS, QGIS to develop maps and dashboards to identify mining hotspots, determine optimal exploration areas, and support risk assessment."
@@ -53,6 +54,7 @@
             "PostgreSQL",
             "PostGIS",
             "Python",
+            "Google Earth Engine (GEE)",
             "Microsoft Excel",
             "Excel Pivot Tables",
             "UAV",
@@ -87,6 +89,7 @@
             "Python",
             "Land Surveying",
             "UAV",
+            "Google Earth Engine (GEE)",
             "Microsoft Excel",
             "Google Earth Pro",
             "MS Project"
@@ -109,7 +112,7 @@
             "Represented the organization in high-level bid meetings, as well as in discussions with government agencies, private companies, and international stakeholders."
         ],
         "technology_used": [
-            "AutoCAD",
+            "AutoCAD (2D & 3D)",
             "MS Project",
             "Microsoft Excel",
             "Land Surveying"
