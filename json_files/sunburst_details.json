@@ -85,6 +85,11 @@
         "parents": "AgileEnvironments"
     },
     {
+        "ids": "MicrosoftTeams",
+        "labels": "Microsoft Teams",
+        "parents": "AgileEnvironments"
+    },
+    {
         "ids": "FrontEndFrameworks",
         "labels": "Front-End<br>Frameworks",
         "parents": "FrontendWebDevelopmentWebMapping"
@@ -220,8 +225,8 @@
         "parents": "IDEs"
     },
     {
-        "ids": "BITools",
-        "labels": "BI Tools",
+        "ids": "BIToolsDashboards",
+        "labels": "BI Tools<br>+<br>Dashboards",
         "parents": "DataVisualizationsBITools"
     },
     {
@@ -285,6 +290,11 @@
         "parents": "CloudServicesDevOpsTools"
     },
     {
+        "ids": "WebHosting",
+        "labels": "Web Hosting",
+        "parents": "CloudServicesDevOpsTools"
+    },
+    {
         "ids": "VersionControlCICD",
         "labels": "Version Control<br>&<br>CI/CD",
         "parents": "CloudServicesDevOpsTools"
@@ -322,6 +332,11 @@
     {
         "ids": "MachineLearning",
         "labels": "Machine Learning",
+        "parents": "CoreGISSpatialDataProcessing"
+    },
+    {
+        "ids": "RasterVectorDataHubs",
+        "labels": "Raster/ Vector<br>data Hubs",
         "parents": "CoreGISSpatialDataProcessing"
     },
     {
@@ -372,6 +387,11 @@
     {
         "ids": "OpenLayers",
         "labels": "OpenLayers",
+        "parents": "WebMappingLibraries"
+    },
+    {
+        "ids": "MapLibreGLJS",
+        "labels": "MapLibre GL JS",
         "parents": "WebMappingLibraries"
     },
     {
@@ -462,12 +482,17 @@
     {
         "ids": "Tableau",
         "labels": "Tableau",
-        "parents": "BITools"
+        "parents": "BIToolsDashboards"
     },
     {
         "ids": "MicrosoftExcelPivotTables",
         "labels": "Microsoft Excel<br>(Pivot Tables)",
-        "parents": "BITools"
+        "parents": "BIToolsDashboards"
+    },
+    {
+        "ids": "Streamlit",
+        "labels": "Streamlit",
+        "parents": "BIToolsDashboards"
     },
     {
         "ids": "Matplotlib",
@@ -555,11 +580,6 @@
         "parents": "TestingQualityAssurance"
     },
     {
-        "ids": "unittest",
-        "labels": "unittest",
-        "parents": "TestingQualityAssurance"
-    },
-    {
         "ids": "Postman",
         "labels": "Postman",
         "parents": "TestingQualityAssurance"
@@ -613,6 +633,26 @@
         "ids": "dockerHUB",
         "labels": "docker HUB",
         "parents": "Containerization"
+    },
+    {
+        "ids": "GitHubPages",
+        "labels": "GitHub Pages",
+        "parents": "WebHosting"
+    },
+    {
+        "ids": "AWS",
+        "labels": "AWS",
+        "parents": "WebHosting"
+    },
+    {
+        "ids": "Vercel",
+        "labels": "Vercel",
+        "parents": "WebHosting"
+    },
+    {
+        "ids": "Render",
+        "labels": "Render",
+        "parents": "WebHosting"
     },
     {
         "ids": "Git",
@@ -700,6 +740,11 @@
         "parents": "JavaScriptGeospatialLibraries"
     },
     {
+        "ids": "geotiffjs",
+        "labels": "geotiff.js",
+        "parents": "JavaScriptGeospatialLibraries"
+    },
+    {
         "ids": "R",
         "labels": "R",
         "parents": "REnvironment"
@@ -710,8 +755,33 @@
         "parents": "MachineLearning"
     },
     {
-        "ids": "FME",
-        "labels": "FME",
+        "ids": "GEE",
+        "labels": "GEE",
+        "parents": "RasterVectorDataHubs"
+    },
+    {
+        "ids": "STAC",
+        "labels": "STAC",
+        "parents": "RasterVectorDataHubs"
+    },
+    {
+        "ids": "USGS",
+        "labels": "USGS",
+        "parents": "RasterVectorDataHubs"
+    },
+    {
+        "ids": "CopernicusHub",
+        "labels": "Copernicus Hub",
+        "parents": "RasterVectorDataHubs"
+    },
+    {
+        "ids": "OSM",
+        "labels": "OSM",
+        "parents": "RasterVectorDataHubs"
+    },
+    {
+        "ids": "FMEWorkbench",
+        "labels": "FME Workbench",
         "parents": "ETLTools"
     },
     {
