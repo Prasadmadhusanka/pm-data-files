@@ -5,7 +5,7 @@
         "video_link": "https://personalportfoliodata.s3.eu-central-1.amazonaws.com/Flight_Video.mp4",
         "page_link": "/flightydashboard",
         "description": "An interactive dashboard tracking my flight experiences and air travel history, with real-time statistics and beautiful visualizations of my journeys around the globe.",
-        "last_update": "September 25, 2025"
+        "last_update": "November 03, 2026"
     },
     {
         "id": 2,
@@ -13,6 +13,6 @@
         "video_link": "https://personalportfoliodata.s3.eu-central-1.amazonaws.com/Travel_Video.mp4",
         "page_link": "https://www.instagram.com/puvlogslk/",
         "description": "A visual journey of my adventures around the world - capturing breathtaking landscapes, vibrant cultures, unforgettable moments, and stunning aerial views from a bird\u2019s-eye perspective.",
-        "last_update": "September 30, 2025"
+        "last_update": "February 16, 2025"
     }
 ]
